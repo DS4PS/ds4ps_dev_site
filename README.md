@@ -1,15 +1,18 @@
-# Polar Bear
-An open source minimal theme for Jekyll, ideal for blogging.
+# Data Science for the Public Sector
 
-View the demo at http://diezcami.github.io/polar-bear-theme
+The base site for the **DS4PS** group.
 
-## Contribute
-Please submit **open issues** for bugs or TBA features that haven't been documented yet! Feel free to submit pull requests for any existing issues.
+
+
+## Polar Bear Theme
+
+This site was adapted from the Polar Bear theme, an open source minimal theme for Jekyll, ideal for blogging: http://diezcami.github.io/polar-bear-theme
+
+
 
 ## License
-The MIT License (MIT)
 
-Copyright (c) 2015 Camille Diez
+The MIT License (MIT)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
 
