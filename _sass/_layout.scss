@@ -47,14 +47,6 @@
         }
     }
 
-    .site-nav fa {
-        float: right;
-        line-height: 60px;
-        margin-right: 50px;
-        padding-bottom: 100px;
-        position: sticky;
-        top: 0;
-    }
 
     .site-nav {
         float: left;
@@ -72,6 +64,18 @@
             &:not(:first-child) {
                 margin-left: 20px;
             }
+            
+          .page-link-right {
+            float: right;
+            margin-right: 50px;
+            line-height: $base-line-height;
+            font-weight: bold;
+            letter-spacing: 0.05em;
+
+            &:not(:first-child) {
+                margin-left: 20px;
+            }          
+            
         }
 
         .page-link:hover {
