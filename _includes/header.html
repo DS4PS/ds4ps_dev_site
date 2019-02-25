@@ -1,0 +1,27 @@
+<div class="site-header">
+
+    <nav class="site-nav">
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a class="page-link" href="{{ page.url | prepend: site.baseurl }}">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+    </nav>
+
+         
+         
+         <h1>
+         <span>
+         <a class="site-title" href="{{ site.baseurl }}/">{{ site.title }}</a>
+         </h1>
+         <p style="color:white;font-size:150%;text-align:center;">( data science for the public sector )</p>
+         </span>
+         
+         
+         
+     
+
+    
+
+
+</div>
