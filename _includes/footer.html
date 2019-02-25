@@ -1,6 +1,28 @@
 <div class="footer" align="center">
 
-  Designed by <a href="https://github.com/DS4PS" target="_blank" style="color:orange">DS4PS</a><BR />
-  Powered by <a href=http://jekyllrb.com target="_blank" style="color:orange">Jekyll</a>
+  <div class="row">
+    <div class="column">
+      
+        <a href="https://ds4ps.github.io/ds4ps_dev_site/"  style="color:orange">Home</a>
+        
+        {% for page in site.pages %}
+          {% if page.title %}
+          <a  href="{{ page.url | prepend: site.baseurl }}"  style="color:orange">{{ page.title }}</a>
+          {% endif %}
+        {% endfor %}
+        
+        <a class="page-link" href="https://github.com/DS4PS" target="_blank"  style="color:orange">Projects</a>      
+      
+    </div>
+    
+    <div class="column">
+    
+        Designed by <a href="https://github.com/DS4PS" target="_blank" style="color:orange">DS4PS</a><BR />
+        Powered by <a href=http://jekyllrb.com target="_blank" style="color:orange">Jekyll</a>
+      
+    </div>
+  </div>
+ 
+
 
 </div>
