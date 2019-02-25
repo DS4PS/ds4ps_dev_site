@@ -6,15 +6,15 @@
     
     <div class="column">
       
-        <a href="https://ds4ps.github.io/ds4ps_dev_site/"  style="color:orange">Home</a><BR/>
+        <a href="https://ds4ps.github.io/ds4ps_dev_site/"  style="color:orange">Home</a><BR />
         
         {% for page in site.pages %}
           {% if page.title %}
-          <a  href="{{ page.url | prepend: site.baseurl }}"  style="color:orange">{{ page.title }}</a><BR/>
+          <a  href="{{ page.url | prepend: site.baseurl }}"  style="color:orange">{{ page.title }}</a><BR />
           {% endif %}
         {% endfor %}
         
-        <a class="page-link" href="https://github.com/DS4PS" target="_blank"  style="color:orange">Projects</a> <BR/>     
+        <a class="page-link" href="https://github.com/DS4PS" target="_blank"  style="color:orange">Projects</a> <BR />     
       
     </div>
     
