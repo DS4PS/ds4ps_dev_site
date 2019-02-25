@@ -56,6 +56,14 @@
         position: sticky;
         top: 0;
 
+        .page-nav-right {
+            float: right !important;
+            margin-right: 50px;
+            line-height: $base-line-height;
+            font-weight: bold;
+            letter-spacing: 0.05em;  
+           }
+        
         .page-link {
             line-height: $base-line-height;
             font-weight: bold;
@@ -66,13 +74,7 @@
             } 
          }
             
-          .page-link-right {
-            float: right !important;
-            margin-right: 50px;
-            line-height: $base-line-height;
-            font-weight: bold;
-            letter-spacing: 0.05em;  
-           }
+
 
         .page-link:hover {
             opacity: 0.8;
