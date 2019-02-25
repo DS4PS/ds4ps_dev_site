@@ -47,7 +47,7 @@
         }
     }
 
-    .site-header icon {
+    .site-nav icon {
         float: right;
         line-height: 80px;
         margin-right: 50px;
@@ -59,6 +59,8 @@
         line-height: 56px;
         margin-left: 50px;
         padding-bottom: 100px;
+        position: sticky;
+        top: 0;
 
         .page-link {
             line-height: $base-line-height;
