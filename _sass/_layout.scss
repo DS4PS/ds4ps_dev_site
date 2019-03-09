@@ -90,19 +90,21 @@
                
         @include media-query($on-palm) {
             
+            align: center;
+            
             .column {
               float: none;
               width: 100%;
-              align-content: center;
-              align: center;
+              align-content: center !important;
+              align: center !important;
              }
             
              .row {
-              align: center;
+              align: center !important;
              } 
             
              .p {
-                text-align: center;
+                text-align: center !important;
              }  
             
             .clearfix::after {
