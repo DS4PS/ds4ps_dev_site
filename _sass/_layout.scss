@@ -89,17 +89,29 @@
         color: #FFF;
                
         @include media-query($on-palm) {
+            
             .column {
               float: none;
               width: 100%;
               align-content: center;
+              align: center;
              }
+            
+             .row {
+              align: center;
+             } 
+            
+             .p {
+                text-align: center;
+             }  
             
             .clearfix::after {
               content: "";
               clear: both;
               display: table;
              }
+            
+
         } 
         
     }
