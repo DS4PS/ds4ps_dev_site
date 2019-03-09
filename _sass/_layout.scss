@@ -88,6 +88,19 @@
         font-family: Open Sans;
         color: #FFF;
                
+        @include media-query($on-palm) {
+            .column {
+              float: none;
+              width: 100%;
+              align: center;
+             }
+            
+            .clearfix::after {
+              content: "";
+              clear: both;
+              display: table;
+             }
+        } 
         
     }
 
