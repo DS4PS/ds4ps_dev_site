@@ -95,16 +95,22 @@
             .column {
               float: none;
               width: 100%;
-              margin-left:auto;
-              margin-right:auto;
-              display:block;
+              display: flex;
+              align-items: center;
+              justify-content: center;
+              flex-direction: column;
               text-align: center;
+              align-items: center;
              }
             
-             .row {
-              align: center !important;
+             .div.row {
+              text-align: center !important;
              } 
-            
+        
+             .row {
+              text-align: center !important;
+             }    
+        
              .p {
                 text-align: center !important;
              }  
