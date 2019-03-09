@@ -87,12 +87,17 @@
         font-size: 12px;
         font-family: Open Sans;
         color: #FFF;
+        
+        @include media-query($on-palm) {
+            .column {
+              float: middle;
+              width: 100%;
+             }
+        }        
+        
     }
 
-.column {
-  float: left;
-  width: 25%;
-}
+
 
 /* Clear floats after the columns */
 .row:after {
@@ -100,6 +105,8 @@
   display: table;
   clear: both;
 }
+
+
 
 /* Individual Posts
  * ============================================== */
