@@ -90,14 +90,26 @@
         
         @include media-query($on-palm) {
             .column {
-              float: middle;
+              float: none;
               width: 100%;
+             }
+            
+            .clearfix::after {
+              content: "";
+              clear: both;
+              display: table;
              }
         }        
         
     }
 
 
+
+.clearfix::after {
+  content: "";
+  clear: both;
+  display: table;
+}
 
 /* Clear floats after the columns */
 .row:after {
