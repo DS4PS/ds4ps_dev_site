@@ -89,16 +89,15 @@
         color: #FFF;
                
         @media screen and (max-width: 700px) {
-              
+             
+            .row {
+              align: center !important;
+              text-align: center !important;
+             } 
+            
             .column {
-              float: none;
               width: 100%;
-              display: flex;
-              align-items: center;
-              justify-content: center;
-              flex-direction: column;
-              text-align: center;
-              align-items: center;
+              display: inline-block;
              }
          
         } 
