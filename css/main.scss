@@ -47,8 +47,9 @@ $on-laptop:        700px;
         "syntax-highlighting"
 ;
 
-@media screen and (max-width: 500px) {
-  .column {
+@media only screen and (max-width: 500px) {
+    /* Footer adjustment for mobile phones: */
+    .column {
     width: 100%;
   }
 }
