@@ -40,12 +40,7 @@ $on-laptop:        700px;
     }
 }
 
-@media screen and (max-width: 700px) {
-    /* Footer adjustment for mobile phones: */
-    .column {
-    width: 100%;
-  }
-}
+
 
 // Import partials from `sass_dir` (defaults to `_sass`)
 @import
