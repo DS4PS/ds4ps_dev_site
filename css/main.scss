@@ -47,3 +47,8 @@ $on-laptop:        700px;
         "syntax-highlighting"
 ;
 
+@media screen and (max-width: 600px) {
+  .column {
+    width: 100%;
+  }
+}
