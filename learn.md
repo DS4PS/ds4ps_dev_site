@@ -118,7 +118,6 @@ You will find here some resources for students and faculty that are applying dat
 * University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
 * University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)
 * Carnegie Mellon: [Joint PhD in Public Policy and Machine Learning](https://www.ml.cmu.edu/academics/joint-ml-phd.html)  
-* Hertie School of Governance:  
 
 
 ## Open Source Tools
