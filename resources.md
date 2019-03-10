@@ -15,7 +15,10 @@ p li {
      -moz-osx-font-smoothing:grayscale;
      margin-left:10%;
      margin-right:2%
-    }     
+    }  
+ul {
+  list-style-type: circle;
+}     
 </style>  
   
 ## Data Science in Public Affairs
