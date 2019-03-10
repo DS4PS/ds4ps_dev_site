@@ -149,9 +149,9 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 ### Job Growth for R Skills 
 
-[ [R job trends](http://www.indeed.com/jobtrends/q-R-statistics-q-SAS-statistics-q-SPSS-q-Stata.html?relative=1) ] 
-[ [current positions](https://www.r-users.com/) & [here](https://www.indeed.com/q-R-Programmer-jobs.html) ] 
-[ [blog](/s/Freelance-R-Programmer-Rates.pdf) ]
+[ [R job trends](http://www.indeed.com/jobtrends/q-R-statistics-q-SAS-statistics-q-SPSS-q-Stata.html?relative=1) ]  
+[ [current positions](https://www.r-users.com/) & [here](https://www.indeed.com/q-R-Programmer-jobs.html) ]  
+[ [blog](/s/Freelance-R-Programmer-Rates.pdf) ]  
 
 
 ### Fellowships:
