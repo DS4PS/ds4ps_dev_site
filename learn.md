@@ -98,15 +98,15 @@ You will find here some resources for students and faculty that are applying dat
 * Department of Commerce [ [link](https://dataacademy.commerce.gov/) ]  
 * Health and Human Services [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
 
-### Example Courses in R at Public Affairs Schools 
+### Example Data Science Courses at Public Affairs Schools 
  
 * Arizona State [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ] [ [Data-Driven Management for Public Organizations](http://www.lecy.info/data-driven-management) ]
 * Brigham Young: [ [Data Science for Public Management](https://statsf18.classes.andrewheiss.com/reading/04-reading/) ] [ [Data Viz](https://datavizf18.classes.andrewheiss.com/) ]  
 * Georgetown: [Data Science for Public Policy](https://georgetownmccourt.github.io/data-science/)   
 * Syracuse iSchool: [ [Applied Data Science](http://my.ischool.syr.edu/uploads/coursesyllabus/687syllabus2013maymester-1133.73673-6a0081f6-0348-4ec4-a75d-8ccf04e8ffe3.pdf) ]
-* Carnegie Mellon: [ [Data Analytics Course](http://www.andrew.cmu.edu/user/achoulde/94842/index.html#schedule) ] [ [PhD in Machine Learning & PP](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) ]  
+* Carnegie Mellon: [ [Data Analytics Course](http://www.andrew.cmu.edu/user/achoulde/94842/index.html#schedule) ] 
 * SUNY Albany: [ [PhD Seminar in Social Network Analysis](http://www.albany.edu/wwwres/kretheme/PAD777/overview.html) ] 
-* Hertie School of Governance: [ [Data](https://github.com/mhaber/HertieDataScience) ] [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text](https://github.com/mhaber/HertieTextAnalysis) ]  
+* Hertie School of Governance: [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text](https://github.com/mhaber/HertieTextAnalysis) ]  
 * University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
 * Carleton University, CA [ [Big Data & Society](https://github.com/TraceyLauriault/COMS2200_Fall2017) ]  
 
@@ -117,8 +117,8 @@ You will find here some resources for students and faculty that are applying dat
 * Arizona State University: [MS in Policy Analytics and Program Evaluation](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms)  
 * University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
 * University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)
-
-
+* Carnegie Mellon: [Joint PhD in Public Policy and Machine Learning](https://www.ml.cmu.edu/academics/joint-ml-phd.html)  
+* Hertie School of Governance: [ [Data](https://github.com/mhaber/HertieDataScience) ]  
 
 
 ## Open Source Tools
