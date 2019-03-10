@@ -13,7 +13,7 @@ p, li {
      line-height:1.7;
      -webkit-font-smoothing:antialiased;
      -moz-osx-font-smoothing:grayscale;
-     margin-left:2%;
+     margin-left:1%;
      margin-right:0%;
     }  
 h2{
