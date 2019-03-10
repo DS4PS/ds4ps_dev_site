@@ -81,11 +81,13 @@
 
 .footerFloatOuter {
 	width: 35%;
+	float: none;
     }
 
 .footerFloatInner {
 	width: 100%;
-    text-align: center;
+	float: none;
+        text-align: center;
     }
 
 .footer {
@@ -102,9 +104,12 @@
             
             .footerFloatInner {
 	          width: 10%;
-	          float: none;
+	          float: left;
             }
-      
+            .footerFloatOuter {
+	          width: 35%;
+	          float: left;
+            }      
         } 
         
     }
