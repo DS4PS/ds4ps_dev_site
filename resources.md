@@ -6,9 +6,9 @@ permalink: /resources/
 
 
 <style>
-p li {
+body, p, li {
      font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(1.5em + 0.25vw);
+     font-size:calc(1.3em + 0.25vw);
      font-weight:300;
      line-height:2.65;
      -webkit-font-smoothing:antialiased;
@@ -18,7 +18,8 @@ p li {
     }  
 ul {
   list-style-type: circle;
-}     
+}  
+body{display:flex;min-height:100vh}
 </style>  
   
 ## Data Science in Public Affairs
