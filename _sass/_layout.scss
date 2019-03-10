@@ -78,7 +78,17 @@
 
 /* Site Footer
  * ============================================== */
-    .footer {
+
+.footerFloatOuter {
+	width: 35%;
+    }
+
+.footerFloatInner {
+	width: 100%;
+    text-align: center;
+    }
+
+.footer {
         min-height: 100px;
         background-color: #696969;
         padding-bottom: 3em;
@@ -88,32 +98,18 @@
         font-family: Open Sans;
         color: #FFF;
                
-        @media screen and (max-width: 700px) {
-             
-            .row {
-              justify-content: center;
-              text-align: center !important;
-             } 
+        @media screen and (min-width: 700px) {
             
-            .column {
-              width: 100%;
-              padding-left: 20em;
-              float: left;
-              display: flex;
-              justify-content: center;
-             }
-             
- 
-            
+            .footerFloatInner {
+	          width: 10%;
+	          float: left;
+            }
+      
         } 
         
     }
 
 
-.column {	
-  float: left;	
-  width: 25%;	
-}
 
 /* Clear floats after the columns */
 .row:after {
