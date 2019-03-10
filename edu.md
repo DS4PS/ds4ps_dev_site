@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Courses
-permalink: /courses/
+title: Edu
+permalink: /edu/
 ---
 
 
