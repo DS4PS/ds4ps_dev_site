@@ -72,7 +72,6 @@ ul {
 }
 </style> 
 
-<br>
 
 ## Data Science in Public Affairs
 
