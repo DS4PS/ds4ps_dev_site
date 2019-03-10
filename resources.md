@@ -16,14 +16,16 @@ p, li {
      margin-left:0%;
      margin-right:0%
     }  
-h1{
+h2{
+  font-size:calc(1.8em + 0.25vw);
   font-weight:300;
-  margin-top:40px !important;
+  margin-top:60px !important;
   margin-bottom:20px;
   color:darkred;
   } 
 
-h2,h3,h4,h5,h6{
+h3{
+  font-size:calc(1.6em + 0.25vw);
   font-weight:300;
   margin-top:20px !important;
   margin-bottom:10px;} 
