@@ -1,16 +1,14 @@
-<div class="footer" align="left">
-
-  <div class="row">
+<div class="footer">
+ 
     
+ 
     
-    
-    
-    <div class="column" style="width:35%"><BR /></div>
+    <div class="footerFloatOuter"><BR /></div>
 
     
     
     
-    <div class="column" style="width:15%"><BR />
+    <div class="footerFloatInner"><BR />
        
        <p style="text-align:left;">
        <img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/ps1-gray.png" alt="ds4ps" width="200" align="left">
@@ -21,7 +19,7 @@
     
     
     
-    <div class="column" style="width:7.5%">
+    <div class="footerFloatInner">
       
         <br>
         <br>
@@ -31,7 +29,7 @@
         
         {% for page in site.pages %}
           {% if page.title %}
-          <a  href="{{ page.url | prepend: site.baseurl }}"  style="color:white">{{ page.title }}</a><BR />
+          <p><a  href="{{ page.url | prepend: site.baseurl }}"  style="color:white">{{ page.title }}</a><BR /></p>
           {% endif %}
         {% endfor %}
         
@@ -39,31 +37,37 @@
       
         <br>
         <br>
+        
+        <p>
         <a href="https://github.com/DS4PS/" target="_blank">
-        <p class="fa fa-github fa-2x" style="color:white;text-align:left;"></p>
+        <i class="fa fa-github fa-2x" style="color:white;text-align:left;"></i>
         </a>
+        </p>
+        
+        <p>
         <a class="page-link" href="https://github.com/DS4PS" target="_blank"  style="color:white">Projects</a> <BR />
+        </p>
       
     </div>
     
     
     
     
-    <div class="column" style="width:7.5%">
+    <div class="footerFloatInner">
     
         <br>
         <br>
         <br>
         <br>
-        Designed by <a href="https://github.com/DS4PS" target="_blank" style="color:orange">DS4PS</a><BR />
-        Powered by <a href=http://jekyllrb.com target="_blank" style="color:orange">Jekyll</a>
+        <p>Designed by <a href="https://github.com/DS4PS" target="_blank" style="color:orange">DS4PS</a><BR /></p>
+        <p>Powered by <a href=http://jekyllrb.com target="_blank" style="color:orange">Jekyll</a></p>
       
     </div>
     
 
     
     
-    <div class="column" style="width:35%"><BR /></div>
+    <div class="footerFloatOuter"><BR /></div>
       
     
     
