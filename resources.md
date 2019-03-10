@@ -25,8 +25,9 @@ p {
 
 We are compiling resources for faculty and students in public policy working with R. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy that use R. 
 
-### Example Courses in R at Public Affairs Schools
 
+### Example Courses in R at Public Affairs Schools 
+ 
 * Arizona State [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ]  
 * Brigham Young: [ [Data Science for Public Management](https://statsf18.classes.andrewheiss.com/reading/04-reading/) ] [ [Data Viz](https://datavizf18.classes.andrewheiss.com/) ]  
 * Georgetown: [Data Science for Public Policy](https://georgetownmccourt.github.io/data-science/)   
@@ -38,29 +39,32 @@ We are compiling resources for faculty and students in public policy working wit
 * University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
 * Carleton University, CA [ [Big Data & Society](https://github.com/TraceyLauriault/COMS2200_Fall2017) ]  
 * Georgia Tech: Elective Workshop in R (Juan Rogers)
+ 
 
-### Example Programs in Public Policy and Data Analytics
+### Example Programs in Public Policy and Data Analytics 
+ 
+* Arizona State University: MS in Policy Analytics and Program Evaluation  
+* University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
+* University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)
 
-Arizona State University: MS in Policy Analytics and Program Evaluation  
-University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
-University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)
 
 
-## Data Science in Government
 
-### US Digital Services Overview
+## Data Science in Government 
+ 
+### US Digital Services Overview 
 
-Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
-Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
-Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
+* Inside Obama's Stealth Startup [ [link](http://www.fastcompany.com/3046756/obama-and-his-geeks?partner=rss) ]  
+* Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
+* Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
 
 ### Data Science Training in Government
 
-Datapolitan [ [link](http://www.datapolitan.com/#projects) ]  
-San Francisco [ [link](https://datasf.org/academy/) ]  
-New York [ [link](https://github.com/datapolitan/Data_Analytics_Classes) ]  
-Department of Commerce [ [link](https://dataacademy.commerce.gov/) ]  
-Health and Human Services [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
+* Datapolitan [ [link](http://www.datapolitan.com/#projects) ]  
+* San Francisco [ [link](https://datasf.org/academy/) ]  
+* New York [ [link](https://github.com/datapolitan/Data_Analytics_Classes) ]  
+* Department of Commerce [ [link](https://dataacademy.commerce.gov/) ]  
+* Health and Human Services [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
 
 ### Open Data for Government
 
