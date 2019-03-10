@@ -49,8 +49,6 @@ ul {
   
 </style> 
 
-
-<br>
 <br>
 
 ## Data Science in Public Affairs
