@@ -32,7 +32,16 @@ h3{
 
 ul {
   list-style-type: circle;
-}  
+}
+#TOC.a {
+  color: black;
+  
+  &:hover {
+     color: darken($brand-color, 10%);
+     text-decoration: none;
+        }
+}
+  
 </style> 
 
 
