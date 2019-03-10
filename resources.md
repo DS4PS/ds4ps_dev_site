@@ -17,15 +17,14 @@ p, li {
      margin-right:0%
     }  
 h2{
-  font-size:calc(1.8em + 0.25vw);
+  font-size:calc(1.6em + 0.25vw) !important;
   font-weight:300;
   margin-top:60px !important;
   margin-bottom:20px;
-  color:darkred;
   } 
 
 h3{
-  font-size:calc(1.6em + 0.25vw);
+  font-size:calc(1.4em + 0.25vw);
   font-weight:300;
   margin-top:20px !important;
   margin-bottom:10px;} 
