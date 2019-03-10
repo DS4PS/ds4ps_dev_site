@@ -77,6 +77,10 @@ ul {
 
 You will find here some resources for students and faculty that are applying data science tools to public and nonprofit sector contexts. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy that use R. 
 
+
+<br>
+<br>
+
 **CONTENT:**
 
 ----------------------- 
@@ -123,9 +127,13 @@ It also lends itself to open innovation since analytical solutions to public sec
 
 There is a non-trivial learning curve to master some of the tools, but the good news is that there are now plenty of good resources. 
 
+<br>
+<br>
+
+-------------
 
 
-### Getting Started
+## Getting Started
 
 Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]
 
@@ -237,7 +245,8 @@ We will attempt to capture and categorize interesting work and resources related
 
 R Open Science [ [link](https://ropensci.org/) ]  
 R Ladies [ [link](https://rladies.org/) ]  
-Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]  
+Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ] 
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]
 
 ### Blogs and Listservs
 
