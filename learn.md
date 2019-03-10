@@ -153,7 +153,7 @@ Data Science Toolkit [ [link](http://www.datasciencetoolkit.org/) ] [ [rpackage]
 ### Recommended Textbooks
 
 Kabacoff (2015), R in Action [ [github](https://github.com/kabacoff/RiA2) ]  
-Teetor (2011), R Cookbook  [ [pdf](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf) ]
+Teetor (2011), R Cookbook  [ [pdf](http://www.bagualu.net/wordpress/wp-content/uploads/2015/10/R_Cookbook.pdf) ]  
 Chang (2013), The R Graphics Cookbook [ [github](https://github.com/wch/gcookbook) ]  
 Matloff (2012), The Art of R Programming [ [github](https://github.com/jcbrodie/ArtofR) ]  
 Spector (2008), Data Manipulation with R [ [github](https://github.com/pawelsakowski/data-manipulation-with-R) ]  
