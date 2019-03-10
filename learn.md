@@ -211,9 +211,9 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 ### Job Growth for R Skills 
 
-[ [R job trends](http://www.indeed.com/jobtrends/q-R-statistics-q-SAS-statistics-q-SPSS-q-Stata.html?relative=1) ]  
-[ [current positions](https://www.r-users.com/) & [here](https://www.indeed.com/q-R-Programmer-jobs.html) ]  
-[ [blog](/s/Freelance-R-Programmer-Rates.pdf) ]  
+* Analyst Positions [ [link](https://www.indeed.com/jobs?as_and=r&as_phr=&as_any=%22data+science%22+%22statistics%22+%22analyst%22+%22government%22&as_not=&as_ttl=&as_cmp=&jt=fulltime&st=&as_src=&salary=&radius=25&l=&fromage=last&limit=10&sort=&psf=advsrch) ]  
+* Current: [ [R Users](https://www.r-users.com/) & [here](https://www.indeed.com/q-R-Programmer-jobs.html) ]  
+* Blog [ [Freelance R Programmers](https://static1.squarespace.com/static/55d9f3fbe4b001723c108c17/t/57a7f39337c58153c1866486/1470624660021/Freelance+R+Programmer+Rates.pdf) ]  
 
 
 ### Example Fellowships:
