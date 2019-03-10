@@ -109,6 +109,10 @@ AI to Transform Government [ [link](http://www.businessofgovernment.org/sites/de
 Brookings Center report on automation [ [link](https://www.brookings.edu/wp-content/uploads/2019/01/ES_2019.01_BrookingsMetro_Automation-AI_Report_Muro-Maxim-Whiton-FINAL.pdf) ]  
 Developing AI for federal government [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
 
+
+
+## Open Data
+
 ### Examples of Data-Driven Journalism Project Portals
 
 BBC creates graphics cookbook [ [link](https://medium.com/bbc-visual-and-data-journalism/how-the-bbc-visual-and-data-journalism-team-works-with-graphics-in-r-ed0b35693535) ] [ [cookbook](https://bbc.github.io/rcookbook/) ]  
@@ -137,7 +141,9 @@ Data Science Toolkit [ [link](http://www.datasciencetoolkit.org/) ] [ [rpackage]
 Federal Government APIs [ [link](https://github.com/unitedstates/APIs) ]  
 Strava GPS Data of Athletes by City [ [blog](http://www.databrew.cc/posts/strava.html) ]
 
-## Performance Management Tools
+
+## Analytics
+
 
 ### Visualization
 
@@ -176,6 +182,17 @@ Calling Bullshit [ [Misleading Axes](https://callingbullshit.org/tools/tools_mis
 Label Your Axes [ [link](http://xkcd.com/833/) ]  
 Pie Charts [ [link](http://www.graphgraph.com/2011/12/pie-charts-are-terrible/) ] [ [link](https://s-media-cache-ak0.pinimg.com/736x/c6/a1/b5/c6a1b548fe0868b69cdfc2f824a2d2b0.jpg) ]  
 Foreign Aid as Missile Attacks [ [link](http://d3.artzub.com/wbca/) ]
+
+
+### Text Analysis Tools
+
+* Quanteda [ [link](https://docs.quanteda.io/articles/pkgdown/comparison.html) ]  
+* Who Wrote the Anonymous Op-Ed? [ [link](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html) ] [ [link](https://www.rjionline.org/stories/we-put-data-science-to-the-test-to-try-to-uncover-the-mystery-author-of-the) ]
+
+
+
+## Performance Management Tools
+
 
 ### Dashboard Design
 
@@ -219,11 +236,6 @@ State and National Presidential Poll Aggregation [ [link](http://www.slate.com/f
 * Next Stage in the Open Data Movement [ [link](http://www.governing.com/topics/transportation-infrastructure/whats-the-next-stage-in-the-open-data-movement.html) ]  
 * Challenge.gov: Using Competitions to Spur Innovation [ [link](http://www.businessofgovernment.org/sites/default/files/Challenge.gov_.pdf) ]  
 * Data for Democracy [ [link](http://datafordemocracy.org/) ]
-
-### Text Analysis Tools
-
-* Quanteda [ [link](https://docs.quanteda.io/articles/pkgdown/comparison.html) ]  
-* Who Wrote the Anonymous Op-Ed? [ [link](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html) ] [ [link](https://www.rjionline.org/stories/we-put-data-science-to-the-test-to-try-to-uncover-the-mystery-author-of-the) ]
 
 
 
