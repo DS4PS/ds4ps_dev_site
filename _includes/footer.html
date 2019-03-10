@@ -25,17 +25,15 @@
         <br>
         <br>
         <br>
-        <a href="https://ds4ps.github.io/ds4ps_dev_site/"  style="color:white">Home</a><BR />
+        <p><a href="https://ds4ps.github.io/ds4ps_dev_site/"  style="color:white">Home</a><BR /></p>
         
         {% for page in site.pages %}
           {% if page.title %}
-          <p><a  href="{{ page.url | prepend: site.baseurl }}"  style="color:white">{{ page.title }}</a><BR /></p>
+          <p><a  href="{{ page.url | prepend: site.baseurl }}"  style="color:white">{{ page.title }}</a></p>
           {% endif %}
         {% endfor %}
         
          
-      
-        <br>
         <br>
         
         <p>
@@ -59,7 +57,7 @@
         <br>
         <br>
         <br>
-        <p>Designed by <a href="https://github.com/DS4PS" target="_blank" style="color:orange">DS4PS</a><BR /></p>
+        <p>Designed by <a href="https://github.com/DS4PS" target="_blank" style="color:orange">DS4PS</a></p>
         <p>Powered by <a href=http://jekyllrb.com target="_blank" style="color:orange">Jekyll</a></p>
       
     </div>
