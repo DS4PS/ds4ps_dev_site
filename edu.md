@@ -46,7 +46,6 @@ ul {
     font-weight: bold;
 }
 
-/* Style the button that is used to open and close the collapsible content */
 .collapsible {
   background-color: #fff;
   color: #444;
@@ -58,17 +57,15 @@ ul {
   outline: none;
   font-size: 15px;
 }
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+
 .active, .collapsible:hover {
   background-color: #ccc;
 }
 
-/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
 .active, .collapsible:hover {
   background-color: #ccc;
 }
 
-/* Style the collapsible content. Note: hidden by default */
 .content {
   display: none;
   overflow: hidden;
@@ -83,7 +80,7 @@ You will find here some resources for students and faculty that are applying dat
 
 <br>
 
-<button class="collapsible">CONTENTS:</button>
+<button class="collapsible">CONTENTS</button>
 <div class="content">
 
 <br>
@@ -91,6 +88,8 @@ You will find here some resources for students and faculty that are applying dat
 
 * TOC
 {:toc}
+
+Some content...
 
 -----------------------
 
