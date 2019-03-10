@@ -6,6 +6,35 @@ permalink: /edu/
 
 
 
+<style>
+p, li {
+     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+     font-size:calc(0.85em + 0.25vw);
+     font-weight:300;
+     line-height:1.7;
+     -webkit-font-smoothing:antialiased;
+     -moz-osx-font-smoothing:grayscale;
+     margin-left:2%;
+     margin-right:0%;
+    }  
+h2{
+  font-size:calc(1.6em + 0.25vw) !important;
+  font-weight:300;
+  margin-top:60px !important;
+  margin-bottom:20px;
+  } 
+
+h3{
+  font-size:calc(1.4em + 0.25vw);
+  font-weight:300;
+  margin-top:20px !important;
+  margin-bottom:10px;} 
+
+ul {
+  list-style-type: circle;
+}  
+</style> 
+
 <h2 style="white-space:pre-wrap;">Data Programming</h2>
 
 <p style="white-space:pre-wrap;">Open source data programming languages have evolved rapidly and are quickly becoming industry standard for data scientists. Public Affairs programs are adopting these technologies because they are free, and a language like R can perform statistical analysis, dynamic reporting, GIS, analysis for qualitative research, and other functions, meaning it can be substituted for several expensive software licenses, making it a good choice for public sector and nonprofit organizations that don't have large technology budgets. It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.</p>
