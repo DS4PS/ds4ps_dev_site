@@ -6,14 +6,15 @@ permalink: /resources/
 
 
 <style>
-p {
+p li {
      font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(1.5em + 0.25vw);
-     font-weight:300;line-height:1.65;
+     font-size:calc(1em + 0.25vw);
+     font-weight:300;
+     line-height:1.65;
      -webkit-font-smoothing:antialiased;
      -moz-osx-font-smoothing:grayscale;
-     margin-left:20%;
-     margin-right:20%
+     margin-left:0%;
+     margin-right:2%
     }     
 </style>  
   
