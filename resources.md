@@ -14,7 +14,8 @@ p, li {
      -webkit-font-smoothing:antialiased;
      -moz-osx-font-smoothing:grayscale;
      margin-left:0%;
-     margin-right:0%
+     margin-right:0%;
+     margin-bottom:5px;
     }  
 h2{
   font-size:calc(1.6em + 0.25vw) !important;
