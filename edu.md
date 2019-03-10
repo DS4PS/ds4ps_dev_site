@@ -77,42 +77,17 @@ ul {
 
 You will find here some resources for students and faculty that are applying data science tools to public and nonprofit sector contexts. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy that use R. 
 
-<br>
-
-<button class="collapsible">CONTENTS</button>
-<div class="content">
-
-<br>
+**CONTENT:**
 
 ----------------------- 
 
 * TOC
 {:toc}
 
-Some content...
-
 -----------------------
 
 <br>
 
-</div>
-
-<script>
-var coll = document.getElementsByClassName("collapsible");
-var i;
-
-for (i = 0; i < coll.length; i++) {
-  coll[i].addEventListener("click", function() {
-    this.classList.toggle("active");
-    var content = this.nextElementSibling;
-    if (content.style.display === "block") {
-      content.style.display = "none";
-    } else {
-      content.style.display = "block";
-    }
-  });
-}
-</script>
 
 
 
