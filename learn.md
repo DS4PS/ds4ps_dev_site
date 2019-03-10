@@ -90,7 +90,13 @@ You will find here some resources for students and faculty that are applying dat
 
 
 
+### Data Science Training in Government
 
+* Datapolitan [ [link](http://www.datapolitan.com/#projects) ]  
+* San Francisco [ [link](https://datasf.org/academy/) ]  
+* New York [ [link](https://github.com/datapolitan/Data_Analytics_Classes) ]  
+* Department of Commerce [ [link](https://dataacademy.commerce.gov/) ]  
+* Health and Human Services [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
 
 ### Example Courses in R at Public Affairs Schools 
  
