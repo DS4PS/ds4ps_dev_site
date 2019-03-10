@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Edu
-permalink: /edu/
+title: Learn
+permalink: /learn/
 ---
 
 
@@ -46,7 +46,33 @@ ul {
     font-weight: bold;
 }
 
-  
+/* Style the button that is used to open and close the collapsible content */
+.collapsible {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 20%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Add a background color to the button if it is clicked on (add the .active class with JS), and when you move the mouse over it (hover) */
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+/* Style the collapsible content. Note: hidden by default */
+.content {
+  display: none;
+  overflow: hidden;
+}
 </style> 
 
 <br>
@@ -56,8 +82,11 @@ ul {
 You will find here some resources for students and faculty that are applying data science tools to public and nonprofit sector contexts. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy that use R. 
 
 <br>
-**CONTENTS:**
 
+<button class="collapsible">CONTENTS:</button>
+<div class="content">
+
+<br>
 -----------------------
 
 * TOC
@@ -66,6 +95,25 @@ You will find here some resources for students and faculty that are applying dat
 -----------------------
 
 <br>
+
+</div>
+
+<script>
+var coll = document.getElementsByClassName("collapsible");
+var i;
+
+for (i = 0; i < coll.length; i++) {
+  coll[i].addEventListener("click", function() {
+    this.classList.toggle("active");
+    var content = this.nextElementSibling;
+    if (content.style.display === "block") {
+      content.style.display = "none";
+    } else {
+      content.style.display = "block";
+    }
+  });
+}
+</script>
 
 
 
