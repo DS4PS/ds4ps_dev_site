@@ -102,12 +102,13 @@ Chattanooga Tableau Site [[link](https://performance.chattanooga.gov/dashboard/y
 ### Overview
 
 * Background on the Open Data Movement [ [link](http://www.urban.org/sites/default/files/alfresco/publication-pdfs/413153-Putting-Open-Data-to-Work-for-Communities.PDF) ] 
-* Ben Wellington's TED Talk on Open Data in NYC [ [link] 
+* Ben Wellington's TED Talk on Open Data in NYC [ [link](https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?) ]  
+
+
 
 ### Impact of Open Data
 
-* I Quant NY [ [link](http://iquantny.tumblr.com/) ]
-(https://www.ted.com/talks/ben_wellington_how_we_found_the_worst_place_to_park_in_new_york_city_using_big_data?) ]  
+* I Quant NY [ [link](http://iquantny.tumblr.com/) ]  
 * Realizing the Promise of Big Data: IBM Center for Gov.  [ [link](http://www.businessofgovernment.org/sites/default/files/Realizing%20the%20Promise%20of%20Big%20Data_0.pdf) ] 
 * Data Used in 2017 Public Policy Dissertations [ [link](http://publicmanagementresearch.com/2017/12/18/data-for-dissertations-december-18-2017/) ]
 
