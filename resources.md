@@ -8,14 +8,26 @@ permalink: /resources/
 <style>
 p, li {
      font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(1.1em + 0.25vw);
+     font-size:calc(1.0em + 0.25vw);
      font-weight:300;
-     line-height:1.65;
+     line-height:1.35;
      -webkit-font-smoothing:antialiased;
      -moz-osx-font-smoothing:grayscale;
-     margin-left:5%;
+     margin-left:0%;
      margin-right:0%
     }  
+h1{
+  font-weight:300;
+  margin-top:40px !important;
+  margin-bottom:20px;
+  color:darkred;
+  } 
+
+h2,h3,h4,h5,h6{
+  font-weight:300;
+  margin-top:20px !important;
+  margin-bottom:10px;} 
+
 ul {
   list-style-type: circle;
 }  
