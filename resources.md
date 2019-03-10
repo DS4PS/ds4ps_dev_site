@@ -8,14 +8,13 @@ permalink: /resources/
 <style>
 p, li {
      font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(0.8em + 0.25vw);
+     font-size:calc(0.9em + 0.25vw);
      font-weight:300;
-     line-height:2.15;
+     line-height:1.6;
      -webkit-font-smoothing:antialiased;
      -moz-osx-font-smoothing:grayscale;
      margin-left:0%;
      margin-right:0%;
-     margin-bottom:5px;
     }  
 h2{
   font-size:calc(1.6em + 0.25vw) !important;
