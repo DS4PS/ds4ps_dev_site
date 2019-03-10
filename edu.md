@@ -41,7 +41,7 @@ ul {
 }  
 
 #markdown-toc a:hover {
-    color: orange:
+    color: black;
     text-decoration: none;
     font-weight: bold;
 }
