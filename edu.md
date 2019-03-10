@@ -83,7 +83,8 @@ You will find here some resources for students and faculty that are applying dat
 <div class="content">
 
 <br>
------------------------
+
+----------------------- 
 
 * TOC
 {:toc}
