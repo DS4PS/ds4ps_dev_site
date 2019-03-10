@@ -5,8 +5,22 @@ permalink: /resources/
 ---
 
 
-
-
+<style>
+p {
+    font-family: Georgia,serif;
+    font-weight: normal;
+    font-size: 13px;
+    font-family: "Merriweather";
+    font-size: 14px;
+    line-height: 1.8em;
+    text-transform: none;
+    text-decoration: none;
+    font-weight: 300;
+    font-style: normal;
+    margin: 0 0 1.8em;
+}
+</style>  
+  
 ## Data Science in Public Affairs
 
 We are compiling resources for faculty and students in public policy working with R. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy that use R. 
