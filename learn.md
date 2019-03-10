@@ -168,8 +168,9 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 
 ## Data Science Communities
 
-R Open Science [ [link](https://ropensci.org/) ]
-useR conference [ [link](https://www.r-project.org/conferences.html) ]
+R Open Science [ [link](https://ropensci.org/) ]  
+R Ladies [ [link](https://rladies.org/) ]  
+Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]  
 
 ### Blogs and Listservs
 
