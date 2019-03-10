@@ -39,8 +39,9 @@ ul {
   line-height:1.2;
   
   &:hover {
-     color: darken($brand-color, 10%);
+     color: orange:
      text-decoration: none;
+     font-weight: bold;
         }
 }
   
