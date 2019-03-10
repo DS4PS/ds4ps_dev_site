@@ -7,18 +7,14 @@ permalink: /resources/
 
 <style>
 p {
-    font-family: Georgia,serif;
-    font-weight: normal;
-    font-size: 13px;
-    font-family: "Merriweather";
-    font-size: 14px;
-    line-height: 1.8em;
-    text-transform: none;
-    text-decoration: none;
-    font-weight: 300;
-    font-style: normal;
-    margin: 0 0 1.8em;
-}
+     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+     font-size:calc(1.5em + 0.25vw);
+     font-weight:300;line-height:1.65;
+     -webkit-font-smoothing:antialiased;
+     -moz-osx-font-smoothing:grayscale;
+     margin-left:20%;
+     margin-right:20%
+    }     
 </style>  
   
 ## Data Science in Public Affairs
