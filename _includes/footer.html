@@ -8,12 +8,10 @@
     
     
     
-    <div class="footerFloatInner1"><BR />
+    <div class="footerFloatInner1">
        
-       <p>
        <img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/ps1-gray.png" alt="ds4ps" width="200">
-       </p>
-         
+  
     </div>
     
     
@@ -23,28 +21,28 @@
       
         <br>
         <br>
-        <br>
-        <br>
-        <p><a href="https://ds4ps.github.io/ds4ps_dev_site/"  style="color:white">Home</a></p>
+        <ul style="list-style-type:none;">
+        <li><a href="https://ds4ps.github.io/ds4ps_dev_site/"  style="color:white">Home</a></li>
         
         {% for page in site.pages %}
           {% if page.title %}
-          <p><a  href="{{ page.url | prepend: site.baseurl }}"  style="color:white">{{ page.title }}</a></p>
+          <li><a  href="{{ page.url | prepend: site.baseurl }}"  style="color:white">{{ page.title }}</a></li>
           {% endif %}
         {% endfor %}
         
+        <li></li>
          
-        <br>
-        
-        <p>
+        <li>
         <a href="https://github.com/DS4PS/" target="_blank">
         <i class="fa fa-github fa-2x" style="color:white;text-align:left;"></i>
         </a>
-        </p>
+        </li>
         
-        <p>
+        <li>
         <a class="page-link" href="https://github.com/DS4PS" target="_blank"  style="color:white">Projects</a> <BR />
-        </p>
+        </li>
+         
+       </ul>
       
     </div>
     
@@ -55,11 +53,12 @@
     
         <br>
         <br>
-        <br>
-        <br>
-        <p>Designed by <a href="https://github.com/DS4PS" target="_blank" style="color:orange">DS4PS</a></p>
-        <p>Powered by <a href=http://jekyllrb.com target="_blank" style="color:orange">Jekyll</a></p>
-      
+     
+        <ul style="list-style-type:none;">
+        <li>Designed by <a href="https://github.com/DS4PS" target="_blank" style="color:orange">DS4PS</a></li>
+        <li>Powered by <a href=http://jekyllrb.com target="_blank" style="color:orange">Jekyll</a></li>
+        </ul>
+     
     </div>
     
     
