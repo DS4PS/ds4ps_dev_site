@@ -100,7 +100,7 @@ You will find here some resources for students and faculty that are applying dat
 
 ### Example Data Science Courses at Public Affairs Schools 
  
-* Arizona State [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ] [ [Data-Driven Management for Public Organizations](http://www.lecy.info/data-driven-management) ]
+* Arizona State: [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ] [ [Data-Driven Management for Public Organizations](http://www.lecy.info/data-driven-management) ]
 * Brigham Young: [ [Data Science for Public Management](https://statsf18.classes.andrewheiss.com/reading/04-reading/) ] [ [Data Viz](https://datavizf18.classes.andrewheiss.com/) ]  
 * Georgetown: [Data Science for Public Policy](https://georgetownmccourt.github.io/data-science/)   
 * Syracuse iSchool: [ [Applied Data Science](http://my.ischool.syr.edu/uploads/coursesyllabus/687syllabus2013maymester-1133.73673-6a0081f6-0348-4ec4-a75d-8ccf04e8ffe3.pdf) ]
@@ -108,11 +108,12 @@ You will find here some resources for students and faculty that are applying dat
 * SUNY Albany: [ [PhD Seminar in Social Network Analysis](http://www.albany.edu/wwwres/kretheme/PAD777/overview.html) ] 
 * Hertie School of Governance: [ [Data Analysis](https://github.com/mhaber/HertieDataScience) ]  [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text Analysis](https://github.com/mhaber/HertieTextAnalysis) ]  
 * University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
-* Carleton University, CA [ [Big Data & Society](https://github.com/TraceyLauriault/COMS2200_Fall2017) ]  
+* Carleton University, Canada: [ [Big Data & Society](https://github.com/TraceyLauriault/COMS2200_Fall2017) ]  
+* Colby College: [ [Data Analysis](http://mgimond.github.io/ES218/) ] and [ [Statistics(http://mgimond.github.io/Stats-in-R/index.html) ]  
 
  
 
-### Example Programs in Public Policy and Data Analytics 
+### Example Degree Programs 
  
 * Arizona State University: [MS in Policy Analytics and Program Evaluation](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms)  
 * University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
@@ -121,18 +122,18 @@ You will find here some resources for students and faculty that are applying dat
 
 
 
-
+<br>
 <br>
 
 -----------------------
 
-<br>
 
 
 
-## Open Source Tools
 
-Open source data programming languages have evolved rapidly and are quickly becoming industry standard for data scientists. Public Affairs programs are adopting these technologies because they are free, and a language like R can perform statistical analysis, dynamic reporting, GIS, analysis for qualitative research, and other functions, meaning it can be substituted for several expensive software licenses, making it a good choice for public sector and nonprofit organizations that don't have large technology budgets. It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
+## The Open Source Ecosystem
+
+Open source tools and data programming languages have evolved rapidly and are quickly becoming industry standard for data scientists. Public Affairs programs are adopting these technologies because they are free and powerful. A single data programming language like R can perform statistical analysis, dynamic reporting, GIS, analysis for qualitative research, and other functions, meaning it can be substituted for several expensive software licenses, making it a good choice for public sector and nonprofit organizations that don't have large technology budgets. It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
 
 <br>
 
@@ -140,16 +141,13 @@ Open source data programming languages have evolved rapidly and are quickly beco
 
 <br>
 
+There is a non-trivial learning curve to master some of the tools, but the good news is that there are now plenty of good resources. 
 
 
-### Example Tutorials for R
+### Getting Started
 
-Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]  
-Courses in Data Programming [ [link](http://www.lecy.info/data-driven-management) ] [ [link](http://www.andrew.cmu.edu/user/achoulde/94842/index.html) ]  
-Spatial Analysis (GIS) [ [link](/urban-policy) ]  
-Network Analysis [ [link](http://kateto.net/networks-r-igraph) ]  
-Collect Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]  
-Data Analysis [ [link](http://mgimond.github.io/ES218/) ] and Statistics [ [link](http://mgimond.github.io/Stats-in-R/index.html) ]  
+Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]
+
 
 ### Online Courses
 
@@ -159,6 +157,8 @@ Code School: [Try R](http://tryr.codeschool.com/)
 Graphics in R: [FlowingData](http://flowingdata.com/2015/05/06/introducing-a-course-for-visualization-in-r/)  
 Learn R in R: [Swirl](http://swirlstats.com/) and [Swirl Course List](https://github.com/swirldev/swirl_courses#swirl-courses) 
 
+
+
 ### Useful Cheat Sheets and References
 
 R Style Guides [ [Google's](https://google.github.io/styleguide/Rguide.xml)] [ [Hadley Wickam's](http://adv-r.had.co.nz/Style.html) ] [ [datacamp](https://www.datacamp.com/teach/documentation#tab_style_guide_r) ]  
@@ -167,6 +167,7 @@ Short Reference Card  [ [link](https://cran.r-project.org/doc/contrib/Short-re
 Project Management Guide  [ [download](http://www.lecy.info/s/Project-Workflow-Slides.pptx) ] [ [link](http://faculty.chicagobooth.edu/jesse.shapiro/research/CodeAndData.pdf) ]  
 GitHub is Going Mainstream [ [link](https://www.wired.com/2013/09/github-for-anything/) ]  
 Data Science Toolkit [ [link](http://www.datasciencetoolkit.org/) ] [ [rpackage](http://files.meetup.com/1696476/DRUG.pdf) ]
+
 
 ### Recommended Textbooks
 
@@ -181,13 +182,30 @@ Schwarzer et. al (2015), Meta-Analysis with R
 Chen & Peace (2013), Applied Meta-Analysis with R
 
 
-
-
+<br>
 <br>
 
 -----------------------
 
+
+## Research Vignettes
+
+We will attempt to capture and categorize interesting work and resources related to the public and nonprofit sectors through the DS4PS blog. Here are a few example vignettes to demonstrate some cool applications of open data + open source tools. 
+
+* Spatial Analysis (GIS) for Urban Policy [ [link](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/) ]  
+* Network Analysis [ [link](http://kateto.net/networks-r-igraph) ]  
+* Child Welfare [ [link](http://urbanspatialanalysis.com/portfolio/an-open-source-geospatial-risk-predictive-framework-for-child-maltreatment/) ]
+* Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]  
+* Moneyball for Infrastructure [ [measurement](https://www.citylab.com/solutions/2016/01/totalpave-infrastructure-road-street-maintenance-smartphone/425079/) ] [ [model](https://www.danielphadley.com/optimize-street-repairs/) ]
+* Target Food Safety Inspection w Open Data [ [link](https://chicago.github.io/food-inspections-evaluation/) ]
+
+
 <br>
+<br>
+
+-----------------------
+
+
 
 
 ## Data Science Communities
@@ -228,10 +246,11 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 
 <br>
+<br>
 
 -----------------------
 
-<br>
+
 
 
 ## Employement Opportunities
