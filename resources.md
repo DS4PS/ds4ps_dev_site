@@ -49,6 +49,8 @@ ul {
 
 
 
+## Data Science in Government 
+
 <br>
 **CONTENTS:**
 
@@ -61,8 +63,6 @@ ul {
 
 <br>
 
-
-## Data Science in Government 
  
 ### US Digital Services Overview 
 
