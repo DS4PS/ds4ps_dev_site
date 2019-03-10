@@ -53,6 +53,11 @@ ul {
 <br>
 <br>
 
+## Data Science in Public Affairs
+
+You will find here some resources for students and faculty that are applying data science tools to public and nonprofit sector contexts. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy that use R. 
+
+<br>
 **CONTENTS:**
 
 -----------------------
@@ -65,9 +70,6 @@ ul {
 <br>
 
 
-## Data Science in Public Affairs
-
-You will find here some resources for students and faculty that are applying data science tools to public and nonprofit sector contexts. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy that use R. 
 
 
 ### Example Courses in R at Public Affairs Schools 
