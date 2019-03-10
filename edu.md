@@ -136,7 +136,7 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 
 ## Communities
 
-### R Open Science [ [link](https://ropensci.org/) ]
+R Open Science [ [link](https://ropensci.org/) ]
 
 ### Blogs and Listservs
 
