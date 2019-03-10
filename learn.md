@@ -129,6 +129,10 @@ Open source data programming languages have evolved rapidly and are quickly beco
   
 ![](assets/img/r-ecosystem.png)
 
+<br>
+
+
+
 ### Example Tutorials for R
 
 Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]  
