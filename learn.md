@@ -106,7 +106,7 @@ You will find here some resources for students and faculty that are applying dat
 * Syracuse iSchool: [ [Applied Data Science](http://my.ischool.syr.edu/uploads/coursesyllabus/687syllabus2013maymester-1133.73673-6a0081f6-0348-4ec4-a75d-8ccf04e8ffe3.pdf) ]
 * Carnegie Mellon: [ [Data Analytics Course](http://www.andrew.cmu.edu/user/achoulde/94842/index.html#schedule) ] 
 * SUNY Albany: [ [PhD Seminar in Social Network Analysis](http://www.albany.edu/wwwres/kretheme/PAD777/overview.html) ] 
-* Hertie School of Governance: [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text](https://github.com/mhaber/HertieTextAnalysis) ]  
+* Hertie School of Governance: [ [Data Analysis](https://github.com/mhaber/HertieDataScience) ]  [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text Analysis](https://github.com/mhaber/HertieTextAnalysis) ]  
 * University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
 * Carleton University, CA [ [Big Data & Society](https://github.com/TraceyLauriault/COMS2200_Fall2017) ]  
 
@@ -118,7 +118,7 @@ You will find here some resources for students and faculty that are applying dat
 * University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
 * University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)
 * Carnegie Mellon: [Joint PhD in Public Policy and Machine Learning](https://www.ml.cmu.edu/academics/joint-ml-phd.html)  
-* Hertie School of Governance: [ [Data](https://github.com/mhaber/HertieDataScience) ]  
+* Hertie School of Governance:  
 
 
 ## Open Source Tools
