@@ -70,13 +70,7 @@ ul {
 * Why I Joined the US Digital Services [ [link](https://medium.com/@USDigitalService/why-i-joined-the-u-s-digital-service-24c6682afce2) ]  
 * Five Examples of How Federal Agencies Use Big Data [ [link](http://www.businessofgovernment.org/BigData3Blog.html) ]
 
-### Data Science Training in Government
 
-* Datapolitan [ [link](http://www.datapolitan.com/#projects) ]  
-* San Francisco [ [link](https://datasf.org/academy/) ]  
-* New York [ [link](https://github.com/datapolitan/Data_Analytics_Classes) ]  
-* Department of Commerce [ [link](https://dataacademy.commerce.gov/) ]  
-* Health and Human Services [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
 
 ### Open Data for Government
 
