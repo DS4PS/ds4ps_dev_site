@@ -10,7 +10,7 @@ p, li {
      font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
      font-size:calc(1.0em + 0.25vw);
      font-weight:300;
-     line-height:1.35;
+     line-height:1.15;
      -webkit-font-smoothing:antialiased;
      -moz-osx-font-smoothing:grayscale;
      margin-left:0%;
