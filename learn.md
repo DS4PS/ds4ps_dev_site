@@ -100,25 +100,25 @@ You will find here some resources for students and faculty that are applying dat
 
 Open source tools and data programming languages have evolved rapidly and are quickly becoming industry standard for data scientists. 
 
-     <br>
-     <p style="text-align:center;">
-     <iframe src="https://player.vimeo.com/video/180644880" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
-     <a href="https://vimeo.com/180644880">R in 60 Seconds</a>.</p>
-     <br>
+<br>
+<p style="text-align:center;">
+<iframe src="https://player.vimeo.com/video/180644880" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<a href="https://vimeo.com/180644880">R in 60 Seconds</a>.</p>
+<br>
 
 Public Affairs programs are adopting these technologies because they are free and powerful. A single data programming language like R can perform statistical analysis, dynamic reporting, GIS, analysis for qualitative research, and other functions, meaning it can be substituted for several expensive software licenses, making it a good choice for public sector and nonprofit organizations that don't have large technology budgets. 
 
-     <br>
-     <p style="text-align:center;"><img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/r-ecosystem.png" alt="R Ecosystem" width="400"></p>
-     <br>
+<br>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/r-ecosystem.png" alt="R Ecosystem" width="400"></p>
+<br>
 
 
 It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
 
 
-     <br>
-     <p style="text-align:center;"><img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/license-fees.png" alt="R Ecosystem" width="400"></p>
-     <br>
+<br>
+<p style="text-align:center;"><img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/license-fees.png" alt="R Ecosystem" width="400"></p>
+<br>
 
 
 There is a non-trivial learning curve to master some of the tools, but the good news is that there are now plenty of good resources. 
