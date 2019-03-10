@@ -34,33 +34,6 @@ ul {
 }  
 </style>  
   
-## Data Science in Public Affairs
-
-We are compiling resources for faculty and students in public policy working with R. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy that use R. 
-
-
-### Example Courses in R at Public Affairs Schools 
- 
-* Arizona State [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ]  
-* Brigham Young: [ [Data Science for Public Management](https://statsf18.classes.andrewheiss.com/reading/04-reading/) ] [ [Data Viz](https://datavizf18.classes.andrewheiss.com/) ]  
-* Georgetown: [Data Science for Public Policy](https://georgetownmccourt.github.io/data-science/)   
-* Syracuse University: [Data-Driven Management for Public Organizations](/data-driven-management)  
-* Syracuse iSchool: [Applied Data Science](http://my.ischool.syr.edu/uploads/coursesyllabus/687syllabus2013maymester-1133.73673-6a0081f6-0348-4ec4-a75d-8ccf04e8ffe3.pdf)  
-* Carnegie Mellon: [ [Data Analytics Course](http://www.andrew.cmu.edu/user/achoulde/94842/index.html#schedule) ] [ [PhD in Machine Learning & PP](https://www.ml.cmu.edu/academics/joint-phd-mlpp.html) ]  
-* SUNY Albany: [PhD Seminar in Social Network Analysis](http://www.albany.edu/wwwres/kretheme/PAD777/overview.html)  
-* Hertie School of Governance: [ [Data](https://github.com/mhaber/HertieDataScience) ] [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text](https://github.com/mhaber/HertieTextAnalysis) ]  
-* University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
-* Carleton University, CA [ [Big Data & Society](https://github.com/TraceyLauriault/COMS2200_Fall2017) ]  
-* Georgia Tech: Elective Workshop in R (Juan Rogers)
- 
-
-### Example Programs in Public Policy and Data Analytics 
- 
-* Arizona State University: MS in Policy Analytics and Program Evaluation  
-* University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
-* University of Chicago: [MS in Computational Science and Public Policy](https://capp.sites.uchicago.edu/)
-
-
 
 
 ## Data Science in Government 
