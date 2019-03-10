@@ -125,8 +125,9 @@ You will find here some resources for students and faculty that are applying dat
 
 Open source data programming languages have evolved rapidly and are quickly becoming industry standard for data scientists. Public Affairs programs are adopting these technologies because they are free, and a language like R can perform statistical analysis, dynamic reporting, GIS, analysis for qualitative research, and other functions, meaning it can be substituted for several expensive software licenses, making it a good choice for public sector and nonprofit organizations that don't have large technology budgets. It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
 
-
-
+<img src="/assets/img/r-ecosystem.png" alt="R Ecosystem" width="600" align="middle">
+  
+![](assets/img/r-ecosystem.png)
 
 ### Example Tutorials for R
 
