@@ -135,7 +135,7 @@ Open source data programming languages have evolved rapidly and are quickly beco
 ### Example Tutorials for R
 
 Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]  
-Courses in Data Programming [ [link](/data-driven-management) ] [ [link](http://www.andrew.cmu.edu/user/achoulde/94842/index.html) ]  
+Courses in Data Programming [ [link](http://www.lecy.info/data-driven-management) ] [ [link](http://www.andrew.cmu.edu/user/achoulde/94842/index.html) ]  
 Spatial Analysis (GIS) [ [link](/urban-policy) ]  
 Network Analysis [ [link](http://kateto.net/networks-r-igraph) ]  
 Collect Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]  
