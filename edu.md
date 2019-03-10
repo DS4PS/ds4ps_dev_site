@@ -35,6 +35,8 @@ ul {
 }
 #TOC.a {
   color: black;
+  font-size:calc(0.75em + 0.25vw);
+  line-height:1.2;
   
   &:hover {
      color: darken($brand-color, 10%);
