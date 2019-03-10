@@ -120,6 +120,16 @@ You will find here some resources for students and faculty that are applying dat
 * Carnegie Mellon: [Joint PhD in Public Policy and Machine Learning](https://www.ml.cmu.edu/academics/joint-ml-phd.html)  
 
 
+
+
+<br>
+
+-----------------------
+
+<br>
+
+
+
 ## Open Source Tools
 
 Open source data programming languages have evolved rapidly and are quickly becoming industry standard for data scientists. Public Affairs programs are adopting these technologies because they are free, and a language like R can perform statistical analysis, dynamic reporting, GIS, analysis for qualitative research, and other functions, meaning it can be substituted for several expensive software licenses, making it a good choice for public sector and nonprofit organizations that don't have large technology budgets. It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
@@ -170,6 +180,16 @@ Wickham (2015), Advanced R  [ [free online](http://adv-r.had.co.nz/) ]
 Schwarzer et. al (2015), Meta-Analysis with R  
 Chen & Peace (2013), Applied Meta-Analysis with R
 
+
+
+
+<br>
+
+-----------------------
+
+<br>
+
+
 ## Data Science Communities
 
 R Open Science [ [link](https://ropensci.org/) ]  
@@ -205,6 +225,13 @@ I Quant NY [ [blog](http://iquantny.tumblr.com/) ]
 ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
 Data for Democracy [ [link](http://datafordemocracy.org/) ]  
 
+
+
+<br>
+
+-----------------------
+
+<br>
 
 
 ## Employement Opportunities
