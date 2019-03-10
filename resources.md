@@ -6,20 +6,19 @@ permalink: /resources/
 
 
 <style>
-body, p, li {
+p, li {
      font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(1.3em + 0.25vw);
+     font-size:calc(1.1em + 0.25vw);
      font-weight:300;
-     line-height:2.65;
+     line-height:1.65;
      -webkit-font-smoothing:antialiased;
      -moz-osx-font-smoothing:grayscale;
-     margin-left:10%;
-     margin-right:2%
+     margin-left:5%;
+     margin-right:0%
     }  
 ul {
   list-style-type: circle;
 }  
-body{display:flex;min-height:100vh}
 </style>  
   
 ## Data Science in Public Affairs
