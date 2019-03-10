@@ -127,7 +127,6 @@ Open source data programming languages have evolved rapidly and are quickly beco
 
 <img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/r-ecosystem.png" alt="R Ecosystem" width="600" align="middle">
   
-![](assets/img/r-ecosystem.png)
 
 <br>
 
@@ -208,7 +207,7 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 
 
-## Jobs
+## Employement Opportunities
 
 ### Job Growth for R Skills 
 
