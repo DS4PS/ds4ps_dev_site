@@ -36,7 +36,8 @@ ul {
 </style> 
 
 
-TOC {:toc}
+* TOC
+{:toc}
 
 ## Data Science in Public Affairs
 
