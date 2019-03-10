@@ -121,22 +121,21 @@ You will find here some resources for students and faculty that are applying dat
 
 
 
-## Data Programming
+## Open Source Tools
 
 Open source data programming languages have evolved rapidly and are quickly becoming industry standard for data scientists. Public Affairs programs are adopting these technologies because they are free, and a language like R can perform statistical analysis, dynamic reporting, GIS, analysis for qualitative research, and other functions, meaning it can be substituted for several expensive software licenses, making it a good choice for public sector and nonprofit organizations that don't have large technology budgets. It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
 
 
 
 
-## Learning R
-
-### Tutorials and Curricula
+### Example Tutorials for R
 
 Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]  
 Courses in Data Programming [ [link](/data-driven-management) ] [ [link](http://www.andrew.cmu.edu/user/achoulde/94842/index.html) ]  
 Spatial Analysis (GIS) [ [link](/urban-policy) ]  
 Network Analysis [ [link](http://kateto.net/networks-r-igraph) ]  
 Collect Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]
+Data Analysis [ [link](http://mgimond.github.io/ES218/) ] and Statistics [ [link](http://mgimond.github.io/Stats-in-R/index.html) ]
 
 ### Online Courses
 
@@ -167,9 +166,10 @@ Wickham (2015), Advanced R  [ [free online](http://adv-r.had.co.nz/) ]
 Schwarzer et. al (2015), Meta-Analysis with R  
 Chen & Peace (2013), Applied Meta-Analysis with R
 
-## Communities
+## Data Science Communities
 
 R Open Science [ [link](https://ropensci.org/) ]
+useR conference [ [link](https://www.r-project.org/conferences.html) ]
 
 ### Blogs and Listservs
 
@@ -211,12 +211,12 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 [ [blog](/s/Freelance-R-Programmer-Rates.pdf) ]  
 
 
-### Fellowships:
+### Example Fellowships:
 
 Data Incubator [ [fellowship overview](https://www.thedataincubator.com/fellowship.html#apply?ref=wam9saWUuYnJlZWRlbkBDb2xvcmFkby5FRFUK) ]  
 Data Science for the Public Good [ [link](https://www.bi.vt.edu/sdal/projects/data-science-for-the-public-good-program) ]
 
-### Job Boards:
+### Example Job Boards:
 
 Indeed + “R Statistics” [ [link](https://www.indeed.com/jobs?q=R+Statistics&l=&ts=1546801625888&rs=1) ]  
 R Users [ [link](https://www.r-users.com/) ]  
