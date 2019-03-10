@@ -33,17 +33,19 @@ h3{
 ul {
   list-style-type: circle;
 }
+
 #markdown-toc a {
   color: black;
   font-size:calc(0.75em + 0.25vw);
   line-height:1.2;
-  
-  &:hover {
-     color: orange:
-     text-decoration: none;
-     font-weight: bold;
-        }
+}  
+
+#markdown-toc a:hover {
+    color: orange:
+    text-decoration: none;
+    font-weight: bold;
 }
+
   
 </style> 
 
