@@ -8,7 +8,7 @@ permalink: /resources/
 <style>
 p li {
      font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
-     font-size:calc(1.2em + 0.25vw);
+     font-size:calc(1.5em + 0.25vw);
      font-weight:300;
      line-height:2.65;
      -webkit-font-smoothing:antialiased;
