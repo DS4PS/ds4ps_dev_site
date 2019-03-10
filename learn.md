@@ -139,8 +139,8 @@ Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]
 Courses in Data Programming [ [link](/data-driven-management) ] [ [link](http://www.andrew.cmu.edu/user/achoulde/94842/index.html) ]  
 Spatial Analysis (GIS) [ [link](/urban-policy) ]  
 Network Analysis [ [link](http://kateto.net/networks-r-igraph) ]  
-Collect Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]
-Data Analysis [ [link](http://mgimond.github.io/ES218/) ] and Statistics [ [link](http://mgimond.github.io/Stats-in-R/index.html) ]
+Collect Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]  
+Data Analysis [ [link](http://mgimond.github.io/ES218/) ] and Statistics [ [link](http://mgimond.github.io/Stats-in-R/index.html) ]  
 
 ### Online Courses
 
