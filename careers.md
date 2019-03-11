@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Learn
-permalink: /learn/
+title: Careers
+permalink: /edu/
 ---
 
 
@@ -74,7 +74,7 @@ ul {
 </style> 
 
 
-## Data Science Training in Public Affairs
+## Data Science Careers in Public Affairs
 
 You will find here some resources for students and faculty that are applying data science tools to public and nonprofit sector contexts. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy using R. 
 
