@@ -33,6 +33,7 @@ ul {
   list-style-type:none;
   margin: 0;
   padding: 0;
+  color: gray;
   font-size:calc(0.85em + 0.25vw);
   line-height:1.5;
 }
