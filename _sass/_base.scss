@@ -7,6 +7,12 @@
         padding: 0;
     }
 
+h1 { color: black; }
+    h2 {
+        color: #337ab7; // blue
+        font-weight:300;
+    } 
+
 /* Basic Styling
  * ============================================== */
     body {
@@ -64,7 +70,7 @@
     }
 
     h1 {font-size: 1.9em !important;}
-    h2, {font-size: 1.5em !important;}
+    h2 {font-size:calc(2em + 0.25vw) !important; }  // font-size: 1.5em !important;}
     h3 {font-size: 1.3em;}
     h4 {font-size: 1em;}
     h5 {font-size: .9em;}
