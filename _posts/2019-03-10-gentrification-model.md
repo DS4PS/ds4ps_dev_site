@@ -2,7 +2,7 @@
 layout: post
 title: "Forecasting Gentrification"
 date: 2019-03-10
-tags: urban, spatial, open data, predictive
+tags: urban spatial 'open data' predictive
 ---
 
 
