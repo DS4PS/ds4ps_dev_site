@@ -5,13 +5,18 @@ ul {
 .button {
     margin-right: 5px;
     font-size:small;
-    background: #4E9CAF;
-    padding: 5px;
+    background: white;   // #4E9CAF;
+    padding: 5px 10px;
     text-align: center;
+    border: 1px solid black;
     border-radius: 5px;
-    color: white;
+    color: black;  // white;
     display:inline-block;
   }
+.button:hover {
+  background-color: black;
+  color: white;
+}
   .span{
 width:32px;
   }
