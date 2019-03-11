@@ -13,15 +13,15 @@ Entrants were asked to use the power of data-visualization to illuminate data on
 
 Scroll through the interactive, static and hand-drawn “napkin” category winners to see who took the grand prize of $25,000.
 
-[![](assets/img/world-data-viz-prize.png)](https://informationisbeautiful.net/2019/winners-of-the-world-data-visualization-prize/)
-
-[![](../assets/img/world-data-viz-prize.png)](https://informationisbeautiful.net/2019/winners-of-the-world-data-visualization-prize/)
-
+<img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/world-data-viz-prize.png">
+         
 
 ## Static Category
 
-![](assets/img/static-runnerup.png)
-
+<img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/static-runnerup.png">
+ 
+ 
 ## Napkin Category
 
-![](assets/img/napkin-runner-up.png)
+<img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/napkin-runner-up.png">
+ 
