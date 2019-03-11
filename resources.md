@@ -17,10 +17,11 @@ p, li {
      margin-right:0%;
     }  
 h2{
-  font-size:calc(1.6em + 0.25vw) !important;
+  font-size:calc(1.7em + 0.25vw) !important;
+  color: darken($brand-color, 10%);
   font-weight:300;
   margin-top:60px !important;
-  margin-bottom:20px;
+  margin-bottom:20px; 
   } 
 
 h3{
