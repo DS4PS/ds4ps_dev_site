@@ -18,10 +18,10 @@ Scroll through the interactive, static and hand-drawn “napkin” category winn
 
 ## Static Category
 
-<img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/static-runnerup.png">
+<img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/static_runnerup.png">
  
  
 ## Napkin Category
 
-<img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/napkin-runner-up.png">
+<img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/napkin_runner-up.png">
  
