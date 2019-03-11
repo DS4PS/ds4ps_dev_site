@@ -1,6 +1,6 @@
 --- 
 layout: index
-title: Syllabus
+title: Home
 hero:
     title: DS4PS
     subtitle: Data Science for the Public Sector
