@@ -4,6 +4,75 @@ title: Data
 permalink: /data/
 ---
 
+<style>
+p, li {
+     font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+     font-size:calc(0.85em + 0.25vw);
+     font-weight:300;
+     line-height:1.7;
+     -webkit-font-smoothing:antialiased;
+     -moz-osx-font-smoothing:grayscale;
+     margin-left:1%;
+     margin-right:0%;
+    }  
+h2{
+  font-size:calc(2em + 0.25vw) !important;
+  color: #337ab7;
+  font-weight:300;
+  margin-top:60px !important;
+  margin-bottom:20px;
+  } 
+
+h3{
+  font-size:calc(1.4em + 0.25vw);
+  font-weight:300;
+  margin-top:20px !important;
+  margin-bottom:10px;} 
+
+ul {
+  list-style-type:none;
+}
+
+#markdown-toc a {
+  color: black;
+  font-size:calc(0.75em + 0.25vw);
+  line-height:1.2;
+}  
+
+#markdown-toc a:hover {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.collapsible {
+  background-color: #fff;
+  color: #444;
+  cursor: pointer;
+  padding: 18px;
+  width: 20%;
+  border: none;
+  text-align: left;
+  outline: none;
+  font-size: 15px;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.active, .collapsible:hover {
+  background-color: #ccc;
+}
+
+.content {
+  display: none;
+  overflow: hidden;
+}
+</style>
+
+
+
 
 ## Open Data 
 
