@@ -49,7 +49,7 @@
 
 
     .site-nav {
-        float: left;
+        // float: left;
         line-height: 56px;
         margin-left: 50px;
         padding-bottom: 100px;
@@ -78,8 +78,27 @@
 
 /* Site Footer
  * ============================================== */
-    .footer {
-        min-height: 100px;
+
+.footerFloatOuter {
+	width: 100%;
+	float: none;
+    }
+
+.footerFloatInner1 {
+	width: 100%;
+	float: none;
+        text-align: center;
+	margin-left: 10px;
+    }
+
+.footerFloatInner2 {
+	width: 100%;
+	float: none;
+        text-align: center;
+    }
+
+.footer {
+        min-height: 300px;
         background-color: #696969;
         padding-bottom: 3em;
         padding-top: 6em;
@@ -87,12 +106,30 @@
         font-size: 12px;
         font-family: Open Sans;
         color: #FFF;
+               
+        @media screen and (min-width: 800px) {
+            
+            .footerFloatInner1 {
+	          width: 20%;
+	          float: left;
+		  align: left;
+		  margin-left: 0px;
+            }
+            .footerFloatInner2 {
+	          width: 20%;
+	          float: left;
+		  text-align: left;
+            }
+		
+            .footerFloatOuter {
+	          width: 30%;
+	          float: left;
+            }      
+        } 
+        
     }
 
-.column {
-  float: left;
-  width: 25%;
-}
+
 
 /* Clear floats after the columns */
 .row:after {
@@ -100,6 +137,8 @@
   display: table;
   clear: both;
 }
+
+
 
 /* Individual Posts
  * ============================================== */

@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<style>
+h2{
+  font-size:calc(2em + 0.25vw) !important;
+  color: #337ab7;
+  font-weight:300;
+  } 
+</style>
+ 
+ 
+<div class="home">
+ 
+  <hr> 
+  <p style="text-align:center;">
+   <br>
+   <img src="assets/img/data-science-46.png" alt="ds4ps" height="50" width="50" align="middle">
+   <br>
+   <img src="assets/img/public-sector-blue2.jpg" alt="ds4ps" height="200" width="200" align="middle">
+   </p>
+  <h2 style="text-align:center;">Data Science for the <br>Public Sector</h2>
+  <br>
+  <hr>
+  
+ <br>
+  <h1 class="page-heading">Blog</h1>
+
+  <ul class="post-list">
+    {% for post in site.posts %}
+      <li>
+        <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+      </li>
+    {% endfor %}
+  </ul>
+  <hr>
+  <br>
+ 
+</div>
