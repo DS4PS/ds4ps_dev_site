@@ -48,10 +48,12 @@ ul {
 } 
 
 ul a {
-  font-weight: bold;
   color: gray;
 } 
-
+ul a:hover {
+  color: #337ab7;
+  font-weight: bold;
+} 
 #markdown-toc a {
   color: black;
   font-size:calc(0.75em + 0.25vw);
