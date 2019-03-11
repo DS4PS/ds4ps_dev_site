@@ -36,8 +36,8 @@ ul {
 
 #markdown-toc a {
   color: black;
-  font-size:calc(0.75em + 0.25vw);
-  line-height:1.2;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.0;
 }  
 
 #markdown-toc a:hover {
