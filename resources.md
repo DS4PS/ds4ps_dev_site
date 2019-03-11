@@ -131,6 +131,14 @@ Chattanooga Tableau Site [[link](https://performance.chattanooga.gov/dashboard/y
 * The Hidden Cost (and Benefits) of Open Data [ [link](http://www.governing.com/columns/tech-talk/gov-open-data-cost-problems.html) ]  
 
 
+### Awesome Public Datasets
+
+Great starting points for finding topical open data:
+
+[Awesome Public Datasets](https://github.com/awesomedata/awesome-public-datasets)
+
+
+
 ### Government Portals and Resources
 
 * 40 Brilliant Open Data Projects for Smart Cities [[ link](https://carto.com/blog/forty-brilliant-open-data-projects) ]  
