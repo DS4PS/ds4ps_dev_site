@@ -7,6 +7,14 @@ url: "http://ds4ps.github.io" # the base hostname & protocol for your site
 twitter_username: username
 github_username: lecy
 
+header:
+  - title: Projects
+    url : https://github.com/DS4PS
+
+  - title: Resources
+    url : /resources
+
+
 # Build settings
 # markdown: redcarpet
 # markdown_ext:  markdown,mkdown,mkdn,mkd,md
