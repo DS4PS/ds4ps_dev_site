@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Careers
-permalink: /edu/
+permalink: /careers/
 ---
 
 
