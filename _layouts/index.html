@@ -1,6 +1,27 @@
 ---
 layout: default
 ---
+
+
+<style>
+.button-simple {
+  background-color: white;
+  color: #337ab7;
+  border: 1px solid black;
+  padding: 7px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 14px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+.button-simple:hover {
+  background-color: #337ab7; /* blue */
+  color: white;
+}
+</style>
+
 <link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
 <div class="home">
  
@@ -35,30 +56,55 @@ layout: default
       <li>
         <!-- <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span> -->
 
-        <article style="height:200px;width:600px;">
-          <!-- <div style = "display: inline-block;"> -->
-          <div style="float:left;width:15%">
-            <span class = "date_day">{{ post.date | date: "%-d" }}</span>
-            <span>{{ post.date | date: "%b, %Y" }}</span>
+       
+        <!---------- BEGIN BLOG CARD ------------->
+       
+        <article style="height:200px;width:600px;">  
+        <!-- <div style = "display: inline-block;"> -->
+         
+          
+         <!---------- BLOG DATE ------------->
+         
+         <div style="float:left;width:15%">
+             <span class = "date_day">{{ post.date | date: "%-d" }}</span>
+             <span>{{ post.date | date: "%b, %Y" }}</span>
           </div>
+         
+         
+         <!---------- BLOG BODY ------------->
+         
           <div style = "float:left;width:85%">
-        <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        <div class = "uk-card-body">
+             
+             <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">
+              <h1>{{ post.title }}</h1>
+             </a>
+             <div class = "uk-card-body">
                 {{ post.excerpt  }}
-            </div>
-            <span>
-  {% for tag in post.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
-</span>
-            <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">
-                <span class="button uk-button-text">
-                Read more &rarr;</span>
-              </a>
-      </div>
-    <!-- </div> -->
-      </article>
+             </div>
+            
+           <span>
+            
+             {% for tag in post.tags %}
+               
+              {% capture tag_name %}{{ tag }}{% endcapture %}
+             
+               <a href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
+               <code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;
+               </a>
+            
+             {% endfor %}
+            
+           </span>
+           
+            <a class="button-simple" href="{{ post.url | prepend: site.baseurl }}">
+             Read more &rarr;
+            </a>
+           
+        </div>  <!---------- END BLOG BODY ------------->
+        
+      </article>  <!---------- END BLOG CARD ------------->
+       
+       
       <hr>
       <br>
       </li>
