@@ -1,5 +1,7 @@
 ---
 layout: discussions
+title: Discuss
+permalink: /discuss/
 ---
 
 
