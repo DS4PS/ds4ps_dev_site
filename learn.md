@@ -294,6 +294,8 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 Although the learning curve is steep, there are clear pay-offs. Nonprofits, governments, foundations, and think-tanks are actively seeking people with data science training to work as policy analysts, evidence-based managers, chief data officers, or evaluation specialists. 
 
+The UK Government has put together a nice overview on [data science career paths in government](https://github.com/ukgovdatascience/data_scientist_career_path/blob/master/index.md). 
+
 ### Job Growth for R Skills 
 
 * Analyst Positions [ [link](https://www.indeed.com/jobs?as_and=r&as_phr=&as_any=%22data+science%22+%22statistics%22+%22analyst%22+%22government%22&as_not=&as_ttl=&as_cmp=&jt=fulltime&st=&as_src=&salary=&radius=25&l=&fromage=last&limit=10&sort=&psf=advsrch) ]  
