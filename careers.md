@@ -135,7 +135,7 @@ There is a non-trivial learning curve to master some of the tools, but the good 
 -------------
 
 
-## Getting Started
+### Getting Started
 
 Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]
 
@@ -181,16 +181,10 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 
 -----------------------
 
+## Professional Training
 
-## Data Science Training in Government
 
-* Datapolitan [ [link](http://www.datapolitan.com/#projects) ]  
-* San Francisco [ [link](https://datasf.org/academy/) ]  
-* New York [ [link](https://github.com/datapolitan/Data_Analytics_Classes) ]  
-* Department of Commerce [ [link](https://dataacademy.commerce.gov/) ]  
-* Health and Human Services [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
-
-### Example Data Science Courses at Public Affairs Schools 
+### Data Science Courses in Public Affairs Schools 
  
 * Arizona State: [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ] [ [Data-Driven Management for Public Organizations](http://www.lecy.info/data-driven-management) ]
 * Brigham Young: [ [Data Science for Public Management](https://statsf18.classes.andrewheiss.com/reading/04-reading/) ] [ [Data Viz](https://datavizf18.classes.andrewheiss.com/) ]  
@@ -205,7 +199,7 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 
  
 
-### Example Degree Programs 
+### Degree Programs 
  
 * Arizona State University: [MS in Policy Analytics and Program Evaluation](https://asuonline.asu.edu/online-degree-programs/graduate/program-evaluation-and-data-analytics-ms)  
 * University of Southern California: [Civic Tech USC](http://www.civictechusc.org/)  
@@ -214,31 +208,24 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 
 
 
-<br>
-<br>
+### Training Opportunities in Government
 
------------------------
-
-
-
-
-
-## Research Vignettes
-
-We will attempt to capture and categorize interesting work and resources related to the public and nonprofit sectors through the DS4PS blog. Here are a few example vignettes to demonstrate some cool applications of open data + open source tools. 
-
-* Spatial Analysis (GIS) for Urban Policy [ [link](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/) ]  
-* Network Analysis [ [link](http://kateto.net/networks-r-igraph) ]  
-* Child Welfare [ [link](http://urbanspatialanalysis.com/portfolio/an-open-source-geospatial-risk-predictive-framework-for-child-maltreatment/) ]
-* Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]  
-* Moneyball for Infrastructure [ [measurement](https://www.citylab.com/solutions/2016/01/totalpave-infrastructure-road-street-maintenance-smartphone/425079/) ] [ [model](https://www.danielphadley.com/optimize-street-repairs/) ]
-* Target Food Safety Inspection w Open Data [ [link](https://chicago.github.io/food-inspections-evaluation/) ]
-
+* Datapolitan [ [link](http://www.datapolitan.com/#projects) ]  
+* San Francisco [ [link](https://datasf.org/academy/) ]  
+* New York [ [link](https://github.com/datapolitan/Data_Analytics_Classes) ]  
+* Department of Commerce [ [link](https://dataacademy.commerce.gov/) ]  
+* Health and Human Services [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
 
 <br>
 <br>
 
 -----------------------
+
+
+
+
+
+
 
 
 
