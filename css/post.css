@@ -4,9 +4,9 @@ ul {
 }
 .button {
     margin-right: 5px;
-    font-size: 14px;
+    font-size: 16px;
     background: white;   // #4E9CAF;
-    padding: 10px 15px;
+    padding: 12px 20px;
     text-align: center;
     border: 1px solid black;
     border-radius: 5px;
