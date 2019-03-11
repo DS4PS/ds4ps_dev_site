@@ -42,6 +42,15 @@ ul {
   color: gray;
 }  
 
+.ul.a {
+  font-weight: bold;
+  color: gray;
+} 
+
+ul a {
+  font-weight: bold;
+  color: gray;
+} 
 
 #markdown-toc a {
   color: black;
