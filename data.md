@@ -34,18 +34,8 @@ ul {
   margin: 0;
   padding: 0;
   font-size:calc(0.65em + 0.25vw);
-  line-height:1.5;
+  line-height:1.2;
 }
-
-.ul .a {
-  font-weight: bold;
-  color: gray;
-}  
-
-.ul.a {
-  font-weight: bold;
-  color: gray;
-} 
 
 ul a {
   color: gray;
