@@ -249,6 +249,7 @@ R Open Science [ [link](https://ropensci.org/) ]
 R Ladies [ [link](https://rladies.org/) ]  
 Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ] 
 Nonprofit Open Data Collective [ [link](www.npdata.info) ]
+GitHub's Government Team [ [link](https://government.github.com/) ]
 
 ### Blogs and Listservs
 
@@ -289,7 +290,7 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 
 
-## Employment Opportunities
+## Careers
 
 Although the learning curve is steep, there are clear pay-offs. Nonprofits, governments, foundations, and think-tanks are actively seeking people with data science training to work as policy analysts, evidence-based managers, chief data officers, or evaluation specialists. 
 
