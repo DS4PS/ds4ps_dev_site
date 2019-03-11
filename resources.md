@@ -50,7 +50,9 @@ ul {
 
 
 
-## Data Science in Government 
+## Data Science Resources
+
+Resources for those that want to leverage data science tools for work in government and nonprofits.
 
 <br>
 **CONTENTS:**
