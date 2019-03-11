@@ -21,6 +21,24 @@ layout: default
   background-color: #337ab7; /* blue */
   color: white;
 }
+.button-tags {
+  background-color: white;
+  color: orange;
+  border: 1px solid orange;
+  border-radius: 5px;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+.button-tags:hover {
+  background-color: #337ab7; /* blue */
+  border: 1px solid #337ab7;
+  color: white;
+}
 a h3 { color: black; }
 a highligher-rouge { 
     color: #337ab7; 
@@ -105,8 +123,8 @@ a:hover highligher-rouge {
                
               {% capture tag_name %}{{ tag }}{% endcapture %}
              
-               <a href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
-               <code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;
+               <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
+                  {{ tag_name }}
                </a>
             
              {% endfor %}
