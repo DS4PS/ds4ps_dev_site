@@ -37,10 +37,11 @@ ul {
   line-height:1.5;
 }
 
-ul.a {
+.ul .a {
   font-weight: bold;
   color: gray;
 }  
+
 
 #markdown-toc a {
   color: black;
