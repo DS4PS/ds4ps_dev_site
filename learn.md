@@ -119,8 +119,6 @@ Public Affairs programs are adopting these technologies because they are free an
 
 It also lends itself to open innovation since analytical solutions to public sector problems can be easily shared and adopted across localities to encourage collaboration and support an ecosystem of performance.
 
-
-<br>
 <p style="text-align:center;"><img src="https://raw.githubusercontent.com/DS4PS/ds4ps_dev_site/master/assets/img/license-fees.png" alt="R Ecosystem" width="400"></p>
 <br>
 
@@ -289,6 +287,8 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 ## Employement Opportunities
 
+Although the learning curve is steep, there are clear pay-offs. Nonprofits, governments, foundations, and think-tanks are actively seeking people with data science training to work as policy analysts, evidence-based managers, chief data officers, or evaluation specialists. 
+
 ### Job Growth for R Skills 
 
 * Analyst Positions [ [link](https://www.indeed.com/jobs?as_and=r&as_phr=&as_any=%22data+science%22+%22statistics%22+%22analyst%22+%22government%22&as_not=&as_ttl=&as_cmp=&jt=fulltime&st=&as_src=&salary=&radius=25&l=&fromage=last&limit=10&sort=&psf=advsrch) ]  
@@ -306,3 +306,8 @@ Data Science for the Public Good [ [link](https://www.bi.vt.edu/sdal/projects/da
 Indeed + “R Statistics” [ [link](https://www.indeed.com/jobs?q=R+Statistics&l=&ts=1546801625888&rs=1) ]  
 R Users [ [link](https://www.r-users.com/) ]  
 Zip Recruiter [ [link](https://www.ziprecruiter.com/Jobs/R-Programmer) ]
+
+<br>
+<br>
+
+-------------
