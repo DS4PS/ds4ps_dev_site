@@ -26,10 +26,10 @@ a {
 
 We invite conversation around data sources, methods, and substantive research themes. For questions about code, please see the rules listed below.
 
-<div class="uk-button-group">
-<a class="uk-button uk-button-default" href="https://github.com/DS4PS/ds4ps_dev_site/labels/methods">Methods</a>
-<a class="uk-button uk-button-default" href="https://github.com/DS4PS/ds4ps_dev_site/labels/data">Data</a>
-<a class="uk-button uk-button-default" href="https://github.com/DS4PS/ds4ps_dev_site/labels/teaching">Teaching</a>
+<div class="button-group">
+<button type="button" onclick="https://github.com/DS4PS/ds4ps_dev_site/labels/methods">Methods</button>
+<button type="button" onclick="https://github.com/DS4PS/ds4ps_dev_site/labels/methods">Data</button>
+<button type="button" onclick="https://github.com/DS4PS/ds4ps_dev_site/labels/methods">Teaching</button>    
 </div>
 
 <br>
@@ -42,19 +42,6 @@ Once you have posted a question or a comment you are subscribed to the conversat
 
 --------------
 
-## Conference Planning
-
-If you have ideas for conference panels or events and are looking for collaborators, you can suggest and discuss here:
-
-
-<a class="uk-button uk-button-primary uk-button-large" href="https://github.com/Nonprofit-Open-Data-Collective/nonprofit-open-data-collective.github.io/labels/conferences">Conferences</a>
-
-<br>
-<br>
-
-
-
---------------
  
 <br>  
 <br>  
