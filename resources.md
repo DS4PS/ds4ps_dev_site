@@ -221,10 +221,24 @@ State and National Presidential Poll Aggregation [ [link](http://www.slate.com/f
 * Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 
+### Data Science Vignettes
+
+Some cool applications of open data + open source tools. 
+
+* Spatial Analysis (GIS) for Urban Policy [ [link](http://urbanspatialanalysis.com/portfolio/predicting-gentrification-using-longitudinal-census-data/) ]  
+* Network Analysis [ [link](http://kateto.net/networks-r-igraph) ]  
+* Child Welfare [ [link](http://urbanspatialanalysis.com/portfolio/an-open-source-geospatial-risk-predictive-framework-for-child-maltreatment/) ]
+* Social Media Data [ [link](http://www.curiositybits.com/r-for-social-data-mining/) ]  
+* Moneyball for Infrastructure [ [measurement](https://www.citylab.com/solutions/2016/01/totalpave-infrastructure-road-street-maintenance-smartphone/425079/) ] [ [model](https://www.danielphadley.com/optimize-street-repairs/) ]
+* Target Food Safety Inspection w Open Data [ [link](https://chicago.github.io/food-inspections-evaluation/) ]
+
 
 <br><br>
 
 ------------------------------
+
+
+
 
 ## Collaboration Tools
 
