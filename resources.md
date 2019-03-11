@@ -184,6 +184,16 @@ Strava GPS Data of Athletes by City [ [blog](http://www.databrew.cc/posts/strava
 
 ## Moneyball for Government
 
+
+<div style="max-width:600px"><div style="position:relative;height:0;padding-bottom:56.25%">
+</div></div>
+
+<br>
+<p style="text-align:center;">
+<iframe src="https://embed.ted.com/talks/lang/en/anne_milgram_why_smart_statistics_are_the_key_to_fighting_crime" width="600" style="position:absolute;left:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe>
+</p>
+<br>
+
 ### Predictive Analytics Models
 
 Food Inspection Forecasting: case study on predictive analytics for food violations in Chicago[ [link](http://chicago.github.io/food-inspections-evaluation/) ]   
