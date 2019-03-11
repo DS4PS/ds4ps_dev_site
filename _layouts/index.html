@@ -71,13 +71,17 @@ a:hover highligher-rouge {
   
  <br>
   <h1 class="page-heading">Blog</h1>
+ <br>
+     
 <div>
 <div id = "tagset">{{ site.tags }}</div>
-
 </div>
+     
+<br>
+<hr>
+     
 <br>
 <br>
-
   <ul >
     {% for post in site.posts %}
       <li>
@@ -136,12 +140,10 @@ a:hover highligher-rouge {
         
       </article>  <!---------- END BLOG CARD ------------->
        
-       
+      <br> 
       <hr>
       <br>
       </li>
-      <br>
-      <br>
       <br>
     {% endfor %}
   </ul>
