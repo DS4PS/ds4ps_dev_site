@@ -23,9 +23,8 @@
     
     <div class="footerFloatInner2">
       
-
-        <br>
-        <ul style="list-style-type:none;">
+     <ul style="list-style-type:none;">
+      
         <li><a href="https://ds4ps.github.io/ds4ps_dev_site/"  style="color:white">Home</a></li>
         
         {% for page in site.header %}
@@ -33,17 +32,13 @@
           <li><a  href="{{ page.url | prepend: site.baseurl }}"  style="color:white">{{ page.title }}</a></li>
           {% endif %}
         {% endfor %}
-        
-
-     
-        
-     
+      
         <li>
-        <a href="https://github.com/DS4PS/" target="_blank">
-        <h3 style="color:white;"> ••• <i class="fab fa-github fa-1x" style="color:white;align:middle;text-align:center;"></i> ••• </h3>
-        </a>
+          <a href="https://github.com/DS4PS/" target="_blank">
+          <h3 style="color:white;"> ••• <i class="fab fa-github fa-1x" style="color:white;align:middle;text-align:center;"></i> ••• </h3>
+          </a>
         </li>
-        
+     
         <li>Powered by <a href=http://jekyllrb.com target="_blank" style="color:orange">Jekyll</a></li>
          
      </ul>
