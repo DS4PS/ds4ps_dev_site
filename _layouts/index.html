@@ -82,7 +82,15 @@ layout: default
                 {{ post.excerpt  }}
              </div>
             
-           <span>
+
+           <!------ READ MORE BUTTON ------->
+            
+           <a class="button-simple" href="{{ post.url | prepend: site.baseurl }}">
+             Read more &rarr;
+           </a>
+            
+            
+           <span> <!------ TAGS ------->
             
              {% for tag in post.tags %}
                
@@ -95,10 +103,7 @@ layout: default
              {% endfor %}
             
            </span>
-           
-            <a class="button-simple" href="{{ post.url | prepend: site.baseurl }}">
-             Read more &rarr;
-            </a>
+            
            
         </div>  <!---------- END BLOG BODY ------------->
         
