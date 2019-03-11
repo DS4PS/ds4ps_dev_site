@@ -17,7 +17,7 @@ p, li {
      margin-right:0%;
     }  
 h2{
-  font-size:calc(1.7em + 0.25vw) !important;
+  font-size:calc(2em + 0.25vw) !important;
   color: #337ab7;
   font-weight:300;
   margin-top:60px !important;
