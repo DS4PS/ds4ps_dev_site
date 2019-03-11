@@ -289,7 +289,7 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 
 
 
-## Employement Opportunities
+## Employment Opportunities
 
 Although the learning curve is steep, there are clear pay-offs. Nonprofits, governments, foundations, and think-tanks are actively seeking people with data science training to work as policy analysts, evidence-based managers, chief data officers, or evaluation specialists. 
 
