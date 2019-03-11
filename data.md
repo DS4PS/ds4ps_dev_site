@@ -20,741 +20,740 @@ In the meantime, enjoy:
 
 This is just a sample of some datasets that would be relevant to the public and nonprofit sectors from the larger catalog of open public sources curated and managed by [AwesomeData](https://github.com/awesomedata/awesome-public-datasets).
 
-
 Agriculture
 -----------
         
-* |OK_ICON| `Hyperspectral benchmark dataset on soil moisture <https://doi.org/10.5281/zenodo.1227837>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Hyperspectral benchmark dataset on soil moisture](https://doi.org/10.5281/zenodo.1227837)  
         
-* |OK_ICON| `U.S. Department of Agriculture's Nutrient Database <https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Department of Agriculture's Nutrient Database](https://www.ars.usda.gov/northeast-area/beltsville-md/beltsville-human-nutrition-research-center/nutrient-data-laboratory/docs/sr28-download-files/)  
         
-* |OK_ICON| `U.S. Department of Agriculture's PLANTS Database <http://www.plants.usda.gov/dl_all.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Department of Agriculture's PLANTS Database](http://www.plants.usda.gov/dl_all.html)  
 
 Climate+Weather
 ---------------
         
-* |OK_ICON| `Actuaries Climate Index <http://actuariesclimateindex.org/data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Actuaries Climate Index](http://actuariesclimateindex.org/data/)  
         
-* |OK_ICON| `Australian Weather <http://www.bom.gov.au/climate/dwo/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Australian Weather](http://www.bom.gov.au/climate/dwo/)  
         
-* |OK_ICON| `Aviation Weather Center - Consistent, timely and accurate weather [...] <https://aviationweather.gov/adds/dataserver>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Aviation Weather Center - Consistent, timely and accurate weather [...]](https://aviationweather.gov/adds/dataserver)  
         
-* |OK_ICON| `Brazilian Weather - Historical data (In Portuguese) - Data related to [...] <http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Brazilian Weather - Historical data (In Portuguese) - Data related to [...]](http://sinda.crn.inpe.br/PCD/SITE/novo/site/historico/index.php)  
         
-* |OK_ICON| `Canadian Meteorological Centre <http://weather.gc.ca/grib/index_e.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Canadian Meteorological Centre](http://weather.gc.ca/grib/index_e.html)  
         
-* |OK_ICON| `Climate Data from UEA (updated monthly) <http://www.cru.uea.ac.uk/data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Climate Data from UEA (updated monthly)](http://www.cru.uea.ac.uk/data/)  
         
-* |FIXME_ICON| `European Climate Assessment & Dataset <http://eca.knmi.nl/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [European Climate Assessment & Dataset](http://eca.knmi.nl/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Climate+Weather/European-Climate-Assessment-&-Dataset.yml)  ]
         
-* |OK_ICON| `Global Climate Data Since 1929 <http://en.tutiempo.net/climate>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Global Climate Data Since 1929](http://en.tutiempo.net/climate)  
         
-* |OK_ICON| `NASA Global Imagery Browse Services <https://wiki.earthdata.nasa.gov/display/GIBS>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NASA Global Imagery Browse Services](https://wiki.earthdata.nasa.gov/display/GIBS)  
         
-* |OK_ICON| `NOAA Bering Sea Climate <http://www.beringclimate.noaa.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NOAA Bering Sea Climate](http://www.beringclimate.noaa.gov/)  
         
-* |OK_ICON| `NOAA Climate Datasets <http://www.ncdc.noaa.gov/data-access/quick-links>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NOAA Climate Datasets](http://www.ncdc.noaa.gov/data-access/quick-links)  
         
-* |OK_ICON| `NOAA Realtime Weather Models <http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NOAA Realtime Weather Models](http://www.ncdc.noaa.gov/data-access/model-data/model-datasets/numerical-weather-prediction)  
         
-* |OK_ICON| `NOAA SURFRAD Meteorology and Radiation Datasets <https://www.esrl.noaa.gov/gmd/grad/stardata.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NOAA SURFRAD Meteorology and Radiation Datasets](https://www.esrl.noaa.gov/gmd/grad/stardata.html)  
         
-* |OK_ICON| `The World Bank Open Data Resources for Climate Change <http://data.worldbank.org/developers/climate-data-api>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [The World Bank Open Data Resources for Climate Change](http://data.worldbank.org/developers/climate-data-api)  
         
-* |OK_ICON| `UEA Climatic Research Unit <http://www.cru.uea.ac.uk/data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UEA Climatic Research Unit](http://www.cru.uea.ac.uk/data)  
         
-* |OK_ICON| `WU Historical Weather Worldwide <https://www.wunderground.com/history/index.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [WU Historical Weather Worldwide](https://www.wunderground.com/history/index.html)  
         
-* |OK_ICON| `WorldClim - Global Climate Data <http://www.worldclim.org>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [WorldClim - Global Climate Data](http://www.worldclim.org)  
 
 
 ComplexNetworks
 ---------------
               
-* |FIXME_ICON| `DBLP Citation dataset <https://kdl.cs.umass.edu/display/public/DBLP>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DBLP-Citation-dataset.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DBLP-Citation-dataset.yml)  ]
         
-* |OK_ICON| `DIMACS Road Networks Collection <http://www.dis.uniroma1.it/challenge9/download.shtml>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [DIMACS Road Networks Collection](http://www.dis.uniroma1.it/challenge9/download.shtml)  
         
-* |OK_ICON| `NBER Patent Citations <http://nber.org/patents/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NBER Patent Citations](http://nber.org/patents/)  
         
 
 
 DataChallenges
 --------------
         
-* |OK_ICON| `DrivenData Competitions for Social Good <http://www.drivendata.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [DrivenData Competitions for Social Good](http://www.drivendata.org/)  
           
-* |OK_ICON| `Localytics Data Visualization Challenge <https://github.com/localytics/data-viz-challenge>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Localytics Data Visualization Challenge](https://github.com/localytics/data-viz-challenge)  
         
-* |OK_ICON| `Netflix Prize <http://netflixprize.com/leaderboard.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Netflix Prize](http://netflixprize.com/leaderboard.html)  
         
 
 Economics
 ---------
         
-* |OK_ICON| `American Economic Association (AEA) <https://www.aeaweb.org/resources/data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [American Economic Association (AEA)](https://www.aeaweb.org/resources/data)  
         
-* |OK_ICON| `EconData from UMD <http://inforumweb.umd.edu/econdata/econdata.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [EconData from UMD](http://inforumweb.umd.edu/econdata/econdata.html)  
         
-* |OK_ICON| `Economic Freedom of the World Data <http://www.freetheworld.com/datasets_efw.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Economic Freedom of the World Data](http://www.freetheworld.com/datasets_efw.html)  
         
-* |OK_ICON| `Historical MacroEconomic Statistics <http://www.historicalstatistics.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Historical MacroEconomic Statistics](http://www.historicalstatistics.org/)  
         
-* |OK_ICON| `INFORUM - Interindustry Forecasting at the University of Maryland <http://inforumweb.umd.edu/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [INFORUM - Interindustry Forecasting at the University of Maryland](http://inforumweb.umd.edu/)  
         
-* |OK_ICON| `International Economics Database <https://db.nomics.world/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [International Economics Database](https://db.nomics.world/)  
         
-* |OK_ICON| `International Trade Statistics <http://www.econostatistics.co.za/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [International Trade Statistics](http://www.econostatistics.co.za/)  
         
-* |OK_ICON| `Internet Product Code Database <http://www.upcdatabase.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Internet Product Code Database](http://www.upcdatabase.com/)  
         
-* |OK_ICON| `Joint External Debt Data Hub <http://www.jedh.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Joint External Debt Data Hub](http://www.jedh.org/)  
         
-* |OK_ICON| `Jon Haveman International Trade Data Links <http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Jon Haveman International Trade Data Links](http://www.macalester.edu/research/economics/PAGE/HAVEMAN/Trade.Resources/TradeData.html)  
         
-* |OK_ICON| `OpenCorporates Database of Companies in the World <https://opencorporates.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenCorporates Database of Companies in the World](https://opencorporates.com/)  
         
-* |OK_ICON| `Our World in Data <http://ourworldindata.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Our World in Data](http://ourworldindata.org/)  
         
-* |OK_ICON| `SciencesPo World Trade Gravity Datasets <http://econ.sciences-po.fr/thierry-mayer/data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [SciencesPo World Trade Gravity Datasets](http://econ.sciences-po.fr/thierry-mayer/data)  
         
-* |OK_ICON| `The Atlas of Economic Complexity <http://atlas.cid.harvard.edu>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [The Atlas of Economic Complexity](http://atlas.cid.harvard.edu)  
         
-* |OK_ICON| `The Center for International Data <http://cid.econ.ucdavis.edu>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [The Center for International Data](http://cid.econ.ucdavis.edu)  
         
-* |OK_ICON| `The Observatory of Economic Complexity <http://atlas.media.mit.edu/en/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [The Observatory of Economic Complexity](http://atlas.media.mit.edu/en/)  
         
-* |OK_ICON| `UN Commodity Trade Statistics <http://comtrade.un.org/db/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UN Commodity Trade Statistics](http://comtrade.un.org/db/)  
         
-* |OK_ICON| `UN Human Development Reports <http://hdr.undp.org/en>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UN Human Development Reports](http://hdr.undp.org/en)  
     
 Education
 ---------
         
-* |OK_ICON| `College Scorecard Data <https://collegescorecard.ed.gov/data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [College Scorecard Data](https://collegescorecard.ed.gov/data/)  
         
-* |OK_ICON| `Student Data from Free Code Camp <https://github.com/freeCodeCamp/open-data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Student Data from Free Code Camp](https://github.com/freeCodeCamp/open-data)  
 
 GIS
 ---
         
-* |OK_ICON| `ArcGIS Open Data portal <http://opendata.arcgis.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [ArcGIS Open Data portal](http://opendata.arcgis.com/)  
         
-* |OK_ICON| `Cambridge, MA, US, GIS data on GitHub <http://cambridgegis.github.io/gisdata.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Cambridge, MA, US, GIS data on GitHub](http://cambridgegis.github.io/gisdata.html)  
         
-* |OK_ICON| `Factual Global Location Data <https://places.factual.com/data/t/places>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Factual Global Location Data](https://places.factual.com/data/t/places)  
         
-* |OK_ICON| `IEEE Geoscience and Remote Sensing Society DASE Website <http://dase.grss-ieee.org>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [IEEE Geoscience and Remote Sensing Society DASE Website](http://dase.grss-ieee.org)  
         
-* |OK_ICON| `Geo Maps - High Quality GeoJSON maps programmatically generated <https://github.com/simonepri/geo-maps>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Geo Maps - High Quality GeoJSON maps programmatically generated](https://github.com/simonepri/geo-maps)  
         
-* |OK_ICON| `Geo Spatial Data from ASU <http://geodacenter.asu.edu/datalist/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Geo Spatial Data from ASU](http://geodacenter.asu.edu/datalist/)  
         
-* |OK_ICON| `Geo Wiki Project - Citizen-driven Environmental Monitoring <http://geo-wiki.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Geo Wiki Project - Citizen-driven Environmental Monitoring](http://geo-wiki.org/)  
         
-* |OK_ICON| `GeoFabrik - OSM data extracted to a variety of formats and areas <http://download.geofabrik.de/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [GeoFabrik - OSM data extracted to a variety of formats and areas](http://download.geofabrik.de/)  
         
-* |OK_ICON| `GeoNames Worldwide <http://www.geonames.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [GeoNames Worldwide](http://www.geonames.org/)  
         
-* |OK_ICON| `Global Administrative Areas Database (GADM) - Geospatial data organized [...] <https://gadm.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Global Administrative Areas Database (GADM) - Geospatial data organized [...]](https://gadm.org/)  
         
-* |OK_ICON| `Homeland Infrastructure Foundation-Level Data <https://hifld-geoplatform.opendata.arcgis.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Homeland Infrastructure Foundation-Level Data](https://hifld-geoplatform.opendata.arcgis.com/)  
         
-* |OK_ICON| `Landsat 8 on AWS <https://aws.amazon.com/public-data-sets/landsat/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Landsat 8 on AWS](https://aws.amazon.com/public-data-sets/landsat/)  
         
-* |OK_ICON| `List of all countries in all languages <https://github.com/umpirsky/country-list>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [List of all countries in all languages](https://github.com/umpirsky/country-list)  
         
-* |OK_ICON| `National Weather Service GIS Data Portal <http://www.nws.noaa.gov/gis/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [National Weather Service GIS Data Portal](http://www.nws.noaa.gov/gis/)  
         
-* |OK_ICON| `Natural Earth - vectors and rasters of the world <http://www.naturalearthdata.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Natural Earth - vectors and rasters of the world](http://www.naturalearthdata.com/)  
         
-* |OK_ICON| `OpenAddresses <http://openaddresses.io/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenAddresses](http://openaddresses.io/)  
         
-* |OK_ICON| `OpenStreetMap (OSM) <http://wiki.openstreetmap.org/wiki/Downloading_data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenStreetMap (OSM)](http://wiki.openstreetmap.org/wiki/Downloading_data)  
         
-* |OK_ICON| `Pleiades - Gazetteer and graph of ancient places <http://pleiades.stoa.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Pleiades - Gazetteer and graph of ancient places](http://pleiades.stoa.org/)  
         
-* |OK_ICON| `Reverse Geocoder using OSM data <https://github.com/kno10/reversegeocode>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Reverse Geocoder using OSM data](https://github.com/kno10/reversegeocode)  
         
-* |OK_ICON| `Robin Wilson - Free GIS Datasets <http://freegisdata.rtwilson.com>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Robin Wilson - Free GIS Datasets](http://freegisdata.rtwilson.com)  
         
-* |OK_ICON| `TIGER/Line - U.S. boundaries and roads <https://www.census.gov/geo/maps-data/data/tiger-line.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [TIGER/Line - U.S. boundaries and roads](https://www.census.gov/geo/maps-data/data/tiger-line.html)  
         
-* |OK_ICON| `TZ Timezones shapfiles <http://efele.net/maps/tz/world/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [TZ Timezones shapfiles](http://efele.net/maps/tz/world/)  
         
-* |OK_ICON| `TwoFishes - Foursquare's coarse geocoder <https://github.com/foursquare/twofishes>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [TwoFishes - Foursquare's coarse geocoder](https://github.com/foursquare/twofishes)  
         
-* |OK_ICON| `UN Environmental Data <http://geodata.grid.unep.ch/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UN Environmental Data](http://geodata.grid.unep.ch/)  
         
-* |OK_ICON| `World boundaries from  the U.S. Department of State <http://geonode.state.gov/layers/?limit=100&offset=0>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [World boundaries from  the U.S. Department of State](http://geonode.state.gov/layers/?limit=100&offset=0)  
         
-* |OK_ICON| `World countries in multiple formats <https://github.com/mledoze/countries>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [World countries in multiple formats](https://github.com/mledoze/countries)  
     
 Government
 ----------
         
-* |OK_ICON| `Alberta, Province of Canada <http://open.alberta.ca>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Alberta, Province of Canada](http://open.alberta.ca)  
         
-* |OK_ICON| `Antwerp, Belgium <http://opendata.antwerpen.be/datasets>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Antwerp, Belgium](http://opendata.antwerpen.be/datasets)  
         
-* |OK_ICON| `Argentina (non official) <http://datar.noip.me/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Argentina (non official)](http://datar.noip.me/)  
         
-* |OK_ICON| `Datos Argentina - Portal de datos abiertos de la República Argentina. [...] <http://datos.gob.ar/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Datos Argentina - Portal de datos abiertos de la República Argentina. [...]](http://datos.gob.ar/)  
         
-* |OK_ICON| `Austin, TX, US <https://data.austintexas.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Austin, TX, US](https://data.austintexas.gov/)  
         
-* |OK_ICON| `Australia (abs.gov.au) <http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Australia (abs.gov.au)](http://www.abs.gov.au/AUSSTATS/abs@.nsf/DetailsPage/3301.02009?OpenDocument)  
         
-* |OK_ICON| `Australia (data.gov.au) <https://data.gov.au/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Australia (data.gov.au)](https://data.gov.au/)  
         
-* |OK_ICON| `Austria (data.gv.at) <https://www.data.gv.at/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Austria (data.gv.at)](https://www.data.gv.at/)  
         
-* |OK_ICON| `Baton Rouge, LA, US <https://data.brla.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Baton Rouge, LA, US](https://data.brla.gov/)  
         
-* |OK_ICON| `Belgium <http://data.gov.be/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Belgium](http://data.gov.be/)  
         
-* |OK_ICON| `Brazil <http://dados.gov.br/dataset>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Brazil](http://dados.gov.br/dataset)  
         
-* |OK_ICON| `Buenos Aires, Argentina <http://data.buenosaires.gob.ar/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Buenos Aires, Argentina](http://data.buenosaires.gob.ar/)  
         
-* |OK_ICON| `Calgary, AB, Canada <https://data.calgary.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Calgary, AB, Canada](https://data.calgary.ca/)  
         
-* |OK_ICON| `Cambridge, MA, US <https://data.cambridgema.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Cambridge, MA, US](https://data.cambridgema.gov/)  
         
-* |OK_ICON| `Canada <http://open.canada.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Canada](http://open.canada.ca/)  
         
-* |OK_ICON| `Chicago <https://data.cityofchicago.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Chicago](https://data.cityofchicago.org/)  
         
-* |OK_ICON| `Chile <http://datos.gob.cl/dataset>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Chile](http://datos.gob.cl/dataset)  
         
-* |OK_ICON| `China <http://data.stats.gov.cn/english/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [China](http://data.stats.gov.cn/english/)  
         
-* |OK_ICON| `Dallas Open Data <https://www.dallasopendata.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Dallas Open Data](https://www.dallasopendata.com/)  
         
-* |OK_ICON| `DataBC - data from the Province of British Columbia <http://www.data.gov.bc.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [DataBC - data from the Province of British Columbia](http://www.data.gov.bc.ca/)  
         
-* |OK_ICON| `Denver Open Data <http://data.denvergov.org//>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Denver Open Data](http://data.denvergov.org//)  
         
-* |OK_ICON| `Durham, NC Open Data <https://live-durhamnc.opendata.arcgis.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Durham, NC Open Data](https://live-durhamnc.opendata.arcgis.com/)  
         
-* |OK_ICON| `Edmonton, AB, Canada <https://data.edmonton.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Edmonton, AB, Canada](https://data.edmonton.ca/)  
         
-* |OK_ICON| `England LGInform <http://lginform.local.gov.uk/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [England LGInform](http://lginform.local.gov.uk/)  
         
-* |OK_ICON| `EuroStat <http://ec.europa.eu/eurostat/data/database>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [EuroStat](http://ec.europa.eu/eurostat/data/database)  
         
-* |OK_ICON| `EveryPolitician - Ongoing project collating and sharing data on every [...] <http://everypolitician.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [EveryPolitician - Ongoing project collating and sharing data on every [...]](http://everypolitician.org/)  
         
-* |OK_ICON| `Federal Committee on Statistical Methodology (FCSM) (formerly FedStats) <https://nces.ed.gov/FCSM/index.asp>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Federal Committee on Statistical Methodology (FCSM) (formerly FedStats)](https://nces.ed.gov/FCSM/index.asp)  
         
-* |OK_ICON| `Finland <https://www.opendata.fi/en>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Finland](https://www.opendata.fi/en)  
         
-* |FIXME_ICON| `France <https://www.data.gouv.fr/en/datasets/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [France](https://www.data.gouv.fr/en/datasets/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/France.yml)  ]
         
-* |OK_ICON| `Fredericton, NB, Canada <http://www.fredericton.ca/en/citygovernment/Catalogue.asp>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Fredericton, NB, Canada](http://www.fredericton.ca/en/citygovernment/Catalogue.asp)  
         
-* |OK_ICON| `Gatineau, QC, Canada <http://www.gatineau.ca/donneesouvertes/default_fr.aspx>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Gatineau, QC, Canada](http://www.gatineau.ca/donneesouvertes/default_fr.aspx)  
         
-* |OK_ICON| `Germany <https://www-genesis.destatis.de/genesis/online>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Germany](https://www-genesis.destatis.de/genesis/online)  
         
-* |OK_ICON| `Ghent, Belgium <https://data.stad.gent/data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Ghent, Belgium](https://data.stad.gent/data)  
         
-* |OK_ICON| `Glasgow, Scotland, UK <https://data.glasgow.gov.uk/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Glasgow, Scotland, UK](https://data.glasgow.gov.uk/)  
         
-* |OK_ICON| `Greece <http://www.data.gov.gr/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Greece](http://www.data.gov.gr/)  
         
-* |OK_ICON| `Guardian world governments <http://www.guardian.co.uk/world-government-data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Guardian world governments](http://www.guardian.co.uk/world-government-data)  
         
-* |OK_ICON| `Halifax, NS, Canada <https://www.halifax.ca/home/open-data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Halifax, NS, Canada](https://www.halifax.ca/home/open-data)  
         
-* |OK_ICON| `Helsinki Region, Finland <http://www.hri.fi/en/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Helsinki Region, Finland](http://www.hri.fi/en/)  
         
-* |OK_ICON| `Hong Kong, China <https://data.gov.hk/en/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Hong Kong, China](https://data.gov.hk/en/)  
         
-* |OK_ICON| `Houston, TX, US <http://data.houstontx.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Houston, TX, US](http://data.houstontx.gov/)  
         
-* |OK_ICON| `Indian Government Data <https://data.gov.in/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Indian Government Data](https://data.gov.in/)  
         
-* |FIXME_ICON| `Indonesian Data Portal <http://data.go.id/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Indonesian Data Portal](http://data.go.id/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Indonesian-Data-Portal.yml)  ]
         
-* |OK_ICON| `Ireland's Open Data Portal <https://data.gov.ie/data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Ireland's Open Data Portal](https://data.gov.ie/data)  
         
-* |OK_ICON| `Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...] <https://www.dati.gov.it/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Italy - Il Portale dati.gov.it è il catalogo nazionale dei metadati [...]](https://www.dati.gov.it/)  
         
-* |OK_ICON| `Japan <http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Japan](http://www.e-stat.go.jp/SG1/estat/eStatTopPortalE.do)  
         
-* |OK_ICON| `Laval, QC, Canada <http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Laval, QC, Canada](http://www.laval.ca/Pages/Fr/Citoyens/donnees.aspx)  
         
-* |OK_ICON| `Lexington, KY <http://data.lexingtonky.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Lexington, KY](http://data.lexingtonky.gov/)  
         
-* |OK_ICON| `London Datastore, UK <http://data.london.gov.uk/dataset>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [London Datastore, UK](http://data.london.gov.uk/dataset)  
         
-* |OK_ICON| `London, ON, Canada <http://www.london.ca/city-hall/open-data/Pages/default.aspx>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [London, ON, Canada](http://www.london.ca/city-hall/open-data/Pages/default.aspx)  
         
-* |OK_ICON| `Los Angeles Open Data <https://data.lacity.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Los Angeles Open Data](https://data.lacity.org/)  
         
-* |OK_ICON| `Luxembourg - Luxembourgish Open Data Portal <https://data.public.lu/en/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Luxembourg - Luxembourgish Open Data Portal](https://data.public.lu/en/)  
         
-* |OK_ICON| `MassGIS, Massachusetts, U.S. <http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [MassGIS, Massachusetts, U.S.](http://www.mass.gov/anf/research-and-tech/it-serv-and-support/application-serv/office-of-geographic-information-massgis/)  
         
-* |OK_ICON| `Metropolitain Transportation Commission (MTC), California, US <http://mtc.ca.gov/tools-resources/data-tools/open-data-library>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Metropolitain Transportation Commission (MTC), California, US](http://mtc.ca.gov/tools-resources/data-tools/open-data-library)  
         
-* |OK_ICON| `Mexico <https://datos.gob.mx/busca/dataset>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Mexico](https://datos.gob.mx/busca/dataset)  
         
-* |OK_ICON| `Missisauga, ON, Canada <http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Missisauga, ON, Canada](http://www.mississauga.ca/portal/residents/publicationsopendatacatalogue)  
         
-* |OK_ICON| `Moldova <http://data.gov.md/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Moldova](http://data.gov.md/)  
         
-* |OK_ICON| `Moncton, NB, Canada <http://open.moncton.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Moncton, NB, Canada](http://open.moncton.ca/)  
         
-* |OK_ICON| `Montreal, QC, Canada <http://donnees.ville.montreal.qc.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Montreal, QC, Canada](http://donnees.ville.montreal.qc.ca/)  
         
-* |OK_ICON| `Mountain View, California, US (GIS) <http://data-mountainview.opendata.arcgis.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Mountain View, California, US (GIS)](http://data-mountainview.opendata.arcgis.com/)  
         
-* |FIXME_ICON| `NYC Open Data <https://opendata.cityofnewyork.us/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-Open-Data.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [NYC Open Data](https://opendata.cityofnewyork.us/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/NYC-Open-Data.yml)  ]
         
-* |OK_ICON| `NYC betanyc <http://betanyc.us/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NYC betanyc](http://betanyc.us/)  
         
-* |OK_ICON| `Netherlands <https://data.overheid.nl/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Netherlands](https://data.overheid.nl/)  
         
-* |OK_ICON| `New Zealand <http://www.stats.govt.nz/browse_for_stats.aspx>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [New Zealand](http://www.stats.govt.nz/browse_for_stats.aspx)  
         
-* |OK_ICON| `OECD <https://data.oecd.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OECD](https://data.oecd.org/)  
         
-* |OK_ICON| `Oakland, California, US <https://data.oaklandnet.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Oakland, California, US](https://data.oaklandnet.com/)  
         
-* |OK_ICON| `Oklahoma <https://data.ok.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Oklahoma](https://data.ok.gov/)  
         
-* |OK_ICON| `Open Data for Africa <http://opendataforafrica.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Open Data for Africa](http://opendataforafrica.org/)  
         
-* |OK_ICON| `Open Government Data (OGD) Platform India <https://data.gov.in/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Open Government Data (OGD) Platform India](https://data.gov.in/)  
         
-* |OK_ICON| `OpenDataSoft's list of 1,600 open data <https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenDataSoft's list of 1,600 open data](https://www.opendatasoft.com/a-comprehensive-list-of-all-open-data-portals-around-the-world/)  
         
-* |OK_ICON| `Oregon <https://data.oregon.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Oregon](https://data.oregon.gov/)  
         
-* |OK_ICON| `Ottawa, ON, Canada <http://data.ottawa.ca/en/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Ottawa, ON, Canada](http://data.ottawa.ca/en/)  
         
-* |OK_ICON| `Palo Alto, California, US <http://data.cityofpaloalto.org/home>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Palo Alto, California, US](http://data.cityofpaloalto.org/home)  
         
-* |OK_ICON| `OpenDataPhilly - OpenDataPhilly is a catalog of open data in the [...] <https://www.opendataphilly.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenDataPhilly - OpenDataPhilly is a catalog of open data in the [...]](https://www.opendataphilly.org/)  
         
-* |OK_ICON| `Portland, Oregon <https://www.portlandoregon.gov/28130>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Portland, Oregon](https://www.portlandoregon.gov/28130)  
         
-* |OK_ICON| `Portugal - Pordata organization <http://www.pordata.pt/en/Home>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Portugal - Pordata organization](http://www.pordata.pt/en/Home)  
         
-* |OK_ICON| `Puerto Rico Government <https://data.pr.gov//>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Puerto Rico Government](https://data.pr.gov//)  
         
-* |OK_ICON| `Quebec City, QC, Canada <http://donnees.ville.quebec.qc.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Quebec City, QC, Canada](http://donnees.ville.quebec.qc.ca/)  
         
-* |OK_ICON| `Quebec Province of Canada <https://www.donneesquebec.ca/en/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Quebec Province of Canada](https://www.donneesquebec.ca/en/)  
         
-* |OK_ICON| `Regina SK, Canada <http://open.regina.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Regina SK, Canada](http://open.regina.ca/)  
         
-* |OK_ICON| `Rio de Janeiro, Brazil <http://www.data.rio/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Rio de Janeiro, Brazil](http://www.data.rio/)  
         
-* |OK_ICON| `Romania <http://data.gov.ro/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Romania](http://data.gov.ro/)  
         
-* |OK_ICON| `Russia <http://data.gov.ru>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Russia](http://data.gov.ru)  
         
-* |OK_ICON| `San Diego, CA <https://data.sandiego.gov>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [San Diego, CA](https://data.sandiego.gov)  
         
-* |OK_ICON| `San Antonio, TX - Community Information Now - CI:Now is a nonprofit [...] <http://cinow.info/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [San Antonio, TX - Community Information Now - CI:Now is a nonprofit [...]](http://cinow.info/)  
         
-* |OK_ICON| `San Francisco Data sets <http://datasf.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [San Francisco Data sets](http://datasf.org/)  
         
-* |OK_ICON| `San Jose, California, US <http://data.sanjoseca.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [San Jose, California, US](http://data.sanjoseca.gov/)  
         
-* |OK_ICON| `San Mateo County, California, US <https://data.smcgov.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [San Mateo County, California, US](https://data.smcgov.org/)  
         
-* |OK_ICON| `Saskatchewan, Province of Canada <http://opendatask.ca/data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Saskatchewan, Province of Canada](http://opendatask.ca/data/)  
         
-* |OK_ICON| `Seattle <https://data.seattle.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Seattle](https://data.seattle.gov/)  
         
-* |OK_ICON| `Singapore Government Data <https://data.gov.sg/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Singapore Government Data](https://data.gov.sg/)  
         
-* |OK_ICON| `South Africa Trade Statistics <http://www.econostatistics.co.za/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [South Africa Trade Statistics](http://www.econostatistics.co.za/)  
         
-* |OK_ICON| `South Africa <http://www.statssa.gov.za/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [South Africa](http://www.statssa.gov.za/)  
         
-* |OK_ICON| `State of Utah, US <https://opendata.utah.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [State of Utah, US](https://opendata.utah.gov/)  
         
-* |OK_ICON| `Switzerland <http://www.opendata.admin.ch/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Switzerland](http://www.opendata.admin.ch/)  
         
-* |OK_ICON| `Taiwan gov <https://data.gov.tw/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Taiwan gov](https://data.gov.tw/)  
         
-* |OK_ICON| `Taiwan <http://data.gov.tw/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Taiwan](http://data.gov.tw/)  
         
-* |OK_ICON| `Tel-Aviv Open Data <https://opendata.tel-aviv.gov.il/index_en.html#/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Tel-Aviv Open Data](https://opendata.tel-aviv.gov.il/index_en.html#/)  
         
-* |OK_ICON| `Texas Open Data <https://data.texas.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Texas Open Data](https://data.texas.gov/)  
         
-* |FIXME_ICON| `The World Bank <https://openknowledge.worldbank.org/handle/10986/2124>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [The World Bank](https://openknowledge.worldbank.org/handle/10986/2124)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/The-World-Bank.yml)  ]
         
-* |OK_ICON| `Toronto, ON, Canada <https://portal0.cf.opendata.inter.sandbox-toronto.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Toronto, ON, Canada](https://portal0.cf.opendata.inter.sandbox-toronto.ca/)  
         
-* |FIXME_ICON| `Tunisia <http://www.data.gov.tn/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Tunisia](http://www.data.gov.tn/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Tunisia.yml)  ]
         
-* |FIXME_ICON| `U.K. Government Data <http://data.gov.uk/data>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [U.K. Government Data](http://data.gov.uk/data)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/U.K.-Government-Data.yml)  ]
         
-* |FIXME_ICON| `U.S. American Community Survey <https://www.census.gov/programs-surveys/acs/data.html/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [U.S. American Community Survey](https://www.census.gov/programs-surveys/acs/data.html/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/U.S.-American-Community-Survey.yml)  ]
         
-* |OK_ICON| `U.S. CDC Public Health datasets <https://www.cdc.gov/nchs/data_access/ftp_data.htm>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. CDC Public Health datasets](https://www.cdc.gov/nchs/data_access/ftp_data.htm)  
         
-* |OK_ICON| `U.S. Census Bureau <http://www.census.gov/data.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Census Bureau](http://www.census.gov/data.html)  
         
-* |OK_ICON| `U.S. Department of Housing and Urban Development (HUD) <http://www.huduser.gov/portal/datasets/pdrdatas.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Department of Housing and Urban Development (HUD)](http://www.huduser.gov/portal/datasets/pdrdatas.html)  
         
-* |OK_ICON| `U.S. Federal Government Agencies <http://www.data.gov/metrics>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Federal Government Agencies](http://www.data.gov/metrics)  
         
-* |OK_ICON| `U.S. Federal Government Data Catalog <http://catalog.data.gov/dataset>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Federal Government Data Catalog](http://catalog.data.gov/dataset)  
         
-* |OK_ICON| `U.S. Food and Drug Administration (FDA) <https://open.fda.gov/index.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Food and Drug Administration (FDA)](https://open.fda.gov/index.html)  
         
-* |OK_ICON| `U.S. National Center for Education Statistics (NCES) <http://nces.ed.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. National Center for Education Statistics (NCES)](http://nces.ed.gov/)  
         
-* |OK_ICON| `U.S. Open Government <http://www.data.gov/open-gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Open Government](http://www.data.gov/open-gov/)  
         
-* |OK_ICON| `UK 2011 Census Open Atlas Project <https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UK 2011 Census Open Atlas Project](https://data.cdrc.ac.uk/product/cdrc-2011-census-open-atlas)  
         
-* |OK_ICON| `U.S. Patent and Trademark Office (USPTO) Bulk Data Products <https://www.uspto.gov/learning-and-resources/bulk-data-products>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Patent and Trademark Office (USPTO) Bulk Data Products](https://www.uspto.gov/learning-and-resources/bulk-data-products)  
         
-* |OK_ICON| `Uganda Bureau of Statistics <http://www.ubos.org/unda/index.php/catalog>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Uganda Bureau of Statistics](http://www.ubos.org/unda/index.php/catalog)  
         
-* |OK_ICON| `Ukraine <https://data.gov.ua/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Ukraine](https://data.gov.ua/)  
         
-* |OK_ICON| `United Nations <http://data.un.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [United Nations](http://data.un.org/)  
         
-* |FIXME_ICON| `Uruguay <https://catalogodatos.gub.uy/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Uruguay](https://catalogodatos.gub.uy/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Uruguay.yml)  ]
         
-* |FIXME_ICON| `Valley Transportation Authority (VTA), California, US <https://data.vta.org/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Government/Valley-Transportation-Authority-VTA-California-US.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Valley Transportation Authority (VTA), California, US](https://data.vta.org/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Government/Valley-Transportation-Authority-VTA-California-US.yml)  ]
         
-* |OK_ICON| `Vancouver, BC Open Data Catalog <http://data.vancouver.ca/datacatalogue/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Vancouver, BC Open Data Catalog](http://data.vancouver.ca/datacatalogue/)  
         
-* |OK_ICON| `Victoria, BC, Canada <http://opendata.victoria.ca/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Victoria, BC, Canada](http://opendata.victoria.ca/)  
         
-* |OK_ICON| `Vienna, Austria <https://open.wien.gv.at/site/open-data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Vienna, Austria](https://open.wien.gv.at/site/open-data/)  
         
-* |OK_ICON| `U.S. Congressional Research Service (CRS) Reports <https://www.everycrsreport.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Congressional Research Service (CRS) Reports](https://www.everycrsreport.com/)  
     
 Healthcare
 ----------
         
-* |OK_ICON| `Composition of Foods Raw, Processed, Prepared USDA National Nutrient Database for Standard [...] <https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-27>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Composition of Foods Raw, Processed, Prepared USDA National Nutrient Database for Standard [...]](https://data.nal.usda.gov/dataset/composition-foods-raw-processed-prepared-usda-national-nutrient-database-standard-reference-release-27)  
         
-* |OK_ICON| `EHDP Large Health Data Sets <http://www.ehdp.com/vitalnet/datasets.htm>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [EHDP Large Health Data Sets](http://www.ehdp.com/vitalnet/datasets.htm)  
         
-* |OK_ICON| `GDC - GDC supports several cancer genome programs for CCG, TCGA, TARGET etc. <https://gdc.cancer.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [GDC - GDC supports several cancer genome programs for CCG, TCGA, TARGET etc.](https://gdc.cancer.gov/)  
         
-* |OK_ICON| `Gapminder World demographic databases <http://www.gapminder.org/data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Gapminder World demographic databases](http://www.gapminder.org/data/)  
         
-* |OK_ICON| `MeSH, the vocabulary thesaurus used for indexing articles for PubMed <https://www.nlm.nih.gov/mesh/filelist.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [MeSH, the vocabulary thesaurus used for indexing articles for PubMed](https://www.nlm.nih.gov/mesh/filelist.html)  
         
-* |OK_ICON| `Medicare Coverage Database (MCD), U.S. <https://www.cms.gov/medicare-coverage-database/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Medicare Coverage Database (MCD), U.S.](https://www.cms.gov/medicare-coverage-database/)  
         
-* |OK_ICON| `Medicare Data Engine of medicare.gov Data <https://data.medicare.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Medicare Data Engine of medicare.gov Data](https://data.medicare.gov/)  
         
-* |OK_ICON| `Medicare Data File <http://go.cms.gov/19xxPN4>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Medicare Data File](http://go.cms.gov/19xxPN4)  
         
-* |OK_ICON| `Number of Ebola Cases and Deaths in Affected Countries (2014) <https://data.humdata.org/dataset/ebola-cases-2014>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Number of Ebola Cases and Deaths in Affected Countries (2014)](https://data.humdata.org/dataset/ebola-cases-2014)  
         
-* |OK_ICON| `Open-ODS (structure of the UK NHS) <http://www.openods.co.uk>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Open-ODS (structure of the UK NHS)](http://www.openods.co.uk)  
         
-* |OK_ICON| `OpenPaymentsData, Healthcare financial relationship data <https://openpaymentsdata.cms.gov>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenPaymentsData, Healthcare financial relationship data](https://openpaymentsdata.cms.gov)  
         
-* |OK_ICON| `PhysioBank Databases - A large and growing archive of physiological data. <https://www.physionet.org/physiobank/database/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [PhysioBank Databases - A large and growing archive of physiological data.](https://www.physionet.org/physiobank/database/)  
         
-* |OK_ICON| `The Cancer Imaging Archive (TCIA) <https://www.cancerimagingarchive.net>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [The Cancer Imaging Archive (TCIA)](https://www.cancerimagingarchive.net)  
         
-* |OK_ICON| `The Cancer Genome Atlas project (TCGA) <https://portal.gdc.cancer.gov/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [The Cancer Genome Atlas project (TCGA)](https://portal.gdc.cancer.gov/)  
         
-* |OK_ICON| `World Health Organization Global Health Observatory <http://www.who.int/gho/en/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [World Health Organization Global Health Observatory](http://www.who.int/gho/en/)  
         
-* |OK_ICON| `Informatics for Integrating Biology & the Bedside <https://www.i2b2.org/NLP/DataSets/Main.php>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Informatics for Integrating Biology & the Bedside](https://www.i2b2.org/NLP/DataSets/Main.php)  
 
 PublicDomains
 -------------
         
-* |OK_ICON| `Amazon <http://aws.amazon.com/datasets/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Amazon](http://aws.amazon.com/datasets/)  
         
-* |OK_ICON| `Archive.org Datasets <https://archive.org/details/datasets>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Archive.org Datasets](https://archive.org/details/datasets)  
         
-* |OK_ICON| `Archive-it from Internet Archive <https://www.archive-it.org/explore?show=Collections>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Archive-it from Internet Archive](https://www.archive-it.org/explore?show=Collections)  
         
-* |OK_ICON| `CMU JASA data archive <http://lib.stat.cmu.edu/jasadata/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [CMU JASA data archive](http://lib.stat.cmu.edu/jasadata/)  
         
-* |OK_ICON| `CMU StatLab collections <http://lib.stat.cmu.edu/datasets/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [CMU StatLab collections](http://lib.stat.cmu.edu/datasets/)  
         
-* |FIXME_ICON| `Data.World <https://data.world>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Data.World](https://data.world)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data.World.yml)  ]
         
-* |FIXME_ICON| `Data360 <http://www.data360.org/index.aspx>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Data360](http://www.data360.org/index.aspx)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Data360.yml)  ]
         
-* |OK_ICON| `Enigma Public <https://public.enigma.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Enigma Public](https://public.enigma.com/)  
         
-* |OK_ICON| `Google <http://www.google.com/publicdata/directory>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Google](http://www.google.com/publicdata/directory)  
         
-* |OK_ICON| `Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...] <https://www.comics.org>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Grand Comics Database - The Grand Comics Database (GCD) is a nonprofit, [...]](https://www.comics.org)  
         
-* |FIXME_ICON| `Infochimps <http://www.infochimps.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Infochimps](http://www.infochimps.com/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Infochimps.yml)  ]
         
-* |OK_ICON| `KDNuggets Data Collections <http://www.kdnuggets.com/datasets/index.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [KDNuggets Data Collections](http://www.kdnuggets.com/datasets/index.html)  
         
-* |OK_ICON| `Microsoft Azure Data Market Free DataSets <https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Microsoft Azure Data Market Free DataSets](https://azuremarketplace.microsoft.com/en-us/marketplace/apps?source=datamarket&filters=pricing-free&page=1)  
         
-* |OK_ICON| `Microsoft Data Science for Research <http://aka.ms/Data-Science>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Microsoft Data Science for Research](http://aka.ms/Data-Science)  
         
-* |OK_ICON| `Microsoft Research Open Data <https://msropendata.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Microsoft Research Open Data](https://msropendata.com/)  
         
-* |FIXME_ICON| `Numbray <http://numbrary.com/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Numbray.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Numbray](http://numbrary.com/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Numbray.yml)  ]
         
-* |OK_ICON| `Open Library Data Dumps <https://openlibrary.org/developers/dumps>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Open Library Data Dumps](https://openlibrary.org/developers/dumps)  
         
-* |FIXME_ICON| `Reddit Datasets <https://www.reddit.com/r/datasets>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Reddit Datasets](https://www.reddit.com/r/datasets)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//PublicDomains/Reddit-Datasets.yml)  ]
         
-* |OK_ICON| `RevolutionAnalytics Collection <http://packages.revolutionanalytics.com/datasets/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [RevolutionAnalytics Collection](http://packages.revolutionanalytics.com/datasets/)  
         
-* |OK_ICON| `Sample R data sets <http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Sample R data sets](http://stat.ethz.ch/R-manual/R-patched/library/datasets/html/00Index.html)  
         
-* |OK_ICON| `StatSci.org <http://www.statsci.org/datasets.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [StatSci.org](http://www.statsci.org/datasets.html)  
         
-* |OK_ICON| `Stats4Stem R data sets (archived) <https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Stats4Stem R data sets (archived)](https://web.archive.org/web/20151024082129/http://www.stats4stem.org:80/data-sets.html)  
         
-* |OK_ICON| `The Washington Post List <http://www.washingtonpost.com/wp-srv/metro/data/datapost.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [The Washington Post List](http://www.washingtonpost.com/wp-srv/metro/data/datapost.html)  
         
-* |OK_ICON| `UCLA SOCR data collection <http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UCLA SOCR data collection](http://wiki.stat.ucla.edu/socr/index.php/SOCR_Data)  
         
-* |OK_ICON| `UFO Reports <http://www.nuforc.org/webreports.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UFO Reports](http://www.nuforc.org/webreports.html)  
         
-* |OK_ICON| `Wikileaks 911 pager intercepts <https://911.wikileaks.org/files/index.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Wikileaks 911 pager intercepts](https://911.wikileaks.org/files/index.html)  
         
-* |OK_ICON| `Yahoo Webscope <http://webscope.sandbox.yahoo.com/catalog.php>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Yahoo Webscope](http://webscope.sandbox.yahoo.com/catalog.php)  
     
 SearchEngines
 -------------
         
-* |OK_ICON| `Academic Torrents of data sharing from UMB <http://academictorrents.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Academic Torrents of data sharing from UMB](http://academictorrents.com/)  
         
-* |OK_ICON| `DataMarket (Qlik) <https://datamarket.com/data/list/?q=all>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [DataMarket (Qlik)](https://datamarket.com/data/list/?q=all)  
         
-* |OK_ICON| `Datahub.io <https://datahub.io/dataset>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Datahub.io](https://datahub.io/dataset)  
         
-* |OK_ICON| `Harvard Dataverse Network of scientific data <https://dataverse.harvard.edu/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Harvard Dataverse Network of scientific data](https://dataverse.harvard.edu/)  
         
-* |OK_ICON| `ICPSR (UMICH) <http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [ICPSR (UMICH)](http://www.icpsr.umich.edu/icpsrweb/ICPSR/index.jsp)  
         
-* |OK_ICON| `Institute of Education Sciences <http://eric.ed.gov>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Institute of Education Sciences](http://eric.ed.gov)  
         
-* |OK_ICON| `National Technical Reports Library <https://ntrl.ntis.gov/NTRL/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [National Technical Reports Library](https://ntrl.ntis.gov/NTRL/)  
         
-* |OK_ICON| `Open Data Certificates (beta) <https://certificates.theodi.org/en/datasets>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Open Data Certificates (beta)](https://certificates.theodi.org/en/datasets)  
         
-* |OK_ICON| `OpenDataNetwork - A search engine of all Socrata powered data portals <http://www.opendatanetwork.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenDataNetwork - A search engine of all Socrata powered data portals](http://www.opendatanetwork.com/)  
         
-* |OK_ICON| `Statista.com - statistics and Studies <http://www.statista.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Statista.com - statistics and Studies](http://www.statista.com/)  
         
-* |OK_ICON| `Zenodo - An open dependable home for the long-tail of science <https://zenodo.org/collection/datasets>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Zenodo - An open dependable home for the long-tail of science](https://zenodo.org/collection/datasets)  
     
 SocialNetworks
 --------------
         
-* |OK_ICON| `72 hours #gamergate Twitter Scrape <http://waxy.org/random/misc/gamergate_tweets.csv>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [72 hours #gamergate Twitter Scrape](http://waxy.org/random/misc/gamergate_tweets.csv)  
         
-* |OK_ICON| `Ancestry.com Forum Dataset over 10 years <http://www.cs.cmu.edu/~jelsas/data/ancestry.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Ancestry.com Forum Dataset over 10 years](http://www.cs.cmu.edu/~jelsas/data/ancestry.com/)  
         
-* |OK_ICON| `CMU Enron Email of 150 users <http://www.cs.cmu.edu/~enron/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [CMU Enron Email of 150 users](http://www.cs.cmu.edu/~enron/)  
         
-* |OK_ICON| `Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape <https://archive.org/details/twitter_cikm_2010>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Cheng-Caverlee-Lee September 2009 - January 2010 Twitter Scrape](https://archive.org/details/twitter_cikm_2010)  
         
-* |OK_ICON| `EDRM Enron EMail of 151 users, hosted on S3 <https://aws.amazon.com/datasets/enron-email-data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [EDRM Enron EMail of 151 users, hosted on S3](https://aws.amazon.com/datasets/enron-email-data/)  
         
-* |OK_ICON| `Facebook Data Scrape (2005) <https://archive.org/details/oxford-2005-facebook-matrix>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Facebook Data Scrape (2005)](https://archive.org/details/oxford-2005-facebook-matrix)  
         
-* |OK_ICON| `Facebook Social Networks from LAW (since 2007) <http://law.di.unimi.it/datasets.php>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Facebook Social Networks from LAW (since 2007)](http://law.di.unimi.it/datasets.php)  
         
-* |OK_ICON| `Foursquare from UMN/Sarwat (2013) <https://archive.org/details/201309_foursquare_dataset_umn>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Foursquare from UMN/Sarwat (2013)](https://archive.org/details/201309_foursquare_dataset_umn)  
         
-* |OK_ICON| `GitHub Collaboration Archive <https://www.githubarchive.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [GitHub Collaboration Archive](https://www.githubarchive.org/)  
         
-* |OK_ICON| `Google Scholar citation relations <http://www3.cs.stonybrook.edu/~leman/data/gscholar.db>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Google Scholar citation relations](http://www3.cs.stonybrook.edu/~leman/data/gscholar.db)  
         
-* |OK_ICON| `High-Resolution Contact Networks from Wearable Sensors <http://www.sociopatterns.org/datasets/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [High-Resolution Contact Networks from Wearable Sensors](http://www.sociopatterns.org/datasets/)  
         
-* |OK_ICON| `Indie Map: social graph and crawl of top IndieWeb sites <http://www.indiemap.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Indie Map: social graph and crawl of top IndieWeb sites](http://www.indiemap.org/)  
         
-* |FIXME_ICON| `Mobile Social Networks from UMASS <https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Mobile-Social-Networks-from-UMASS.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Mobile Social Networks from UMASS](https://kdl.cs.umass.edu/display/public/Mobile+Social+Networks)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Mobile-Social-Networks-from-UMASS.yml)  ]
         
-* |OK_ICON| `Network Twitter Data <http://snap.stanford.edu/data/higgs-twitter.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Network Twitter Data](http://snap.stanford.edu/data/higgs-twitter.html)  
         
-* |OK_ICON| `Reddit Comments <http://files.pushshift.io/reddit/comments/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Reddit Comments](http://files.pushshift.io/reddit/comments/)  
         
-* |OK_ICON| `Skytrax' Air Travel Reviews Dataset <https://github.com/quankiquanki/skytrax-reviews-dataset>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Skytrax' Air Travel Reviews Dataset](https://github.com/quankiquanki/skytrax-reviews-dataset)  
         
-* |OK_ICON| `Social Twitter Data <http://snap.stanford.edu/data/egonets-Twitter.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Social Twitter Data](http://snap.stanford.edu/data/egonets-Twitter.html)  
         
-* |OK_ICON| `SourceForge.net Research Data <http://www3.nd.edu/~oss/Data/data.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [SourceForge.net Research Data](http://www3.nd.edu/~oss/Data/data.html)  
         
-* |OK_ICON| `Twitter Data for Online Reputation Management <http://nlp.uned.es/replab2013/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Twitter Data for Online Reputation Management](http://nlp.uned.es/replab2013/)  
         
-* |OK_ICON| `Twitter Data for Sentiment Analysis <http://help.sentiment140.com/for-students/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Twitter Data for Sentiment Analysis](http://help.sentiment140.com/for-students/)  
         
-* |OK_ICON| `Twitter Graph of entire Twitter site <http://an.kaist.ac.kr/traces/WWW2010.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Twitter Graph of entire Twitter site](http://an.kaist.ac.kr/traces/WWW2010.html)  
         
-* |FIXME_ICON| `Twitter Scrape Calufa May 2011 <http://archive.org/details/2011-05-calufa-twitter-sql>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Scrape-Calufa-May-2011.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Twitter Scrape Calufa May 2011](http://archive.org/details/2011-05-calufa-twitter-sql)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialNetworks/Twitter-Scrape-Calufa-May-2011.yml)  ]
         
-* |OK_ICON| `UNIMI/LAW Social Network Datasets <http://law.di.unimi.it/datasets.php>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UNIMI/LAW Social Network Datasets](http://law.di.unimi.it/datasets.php)  
         
-* |OK_ICON| `Yahoo! Graph and Social Data <http://webscope.sandbox.yahoo.com/catalog.php?datatype=g>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Yahoo! Graph and Social Data](http://webscope.sandbox.yahoo.com/catalog.php?datatype=g)  
         
-* |OK_ICON| `Youtube Video Social Graph in 2007,2008 <http://netsg.cs.sfu.ca/youtubedata/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Youtube Video Social Graph in 2007,2008](http://netsg.cs.sfu.ca/youtubedata/)  
     
 SocialSciences
 --------------
         
-* |OK_ICON| `ACLED (Armed Conflict Location & Event Data Project) <http://www.acleddata.com/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [ACLED (Armed Conflict Location & Event Data Project)](http://www.acleddata.com/)  
         
-* |OK_ICON| `Canadian Legal Information Institute <https://www.canlii.org/en/index.php>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Canadian Legal Information Institute](https://www.canlii.org/en/index.php)  
         
-* |OK_ICON| `Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc <http://www.systemicpeace.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Center for Systemic Peace Datasets - Conflict Trends, Polities, State Fragility, etc](http://www.systemicpeace.org/)  
         
-* |OK_ICON| `Correlates of War Project <http://www.correlatesofwar.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Correlates of War Project](http://www.correlatesofwar.org/)  
         
-* |OK_ICON| `Cryptome Conspiracy Theory Items <http://cryptome.org>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Cryptome Conspiracy Theory Items](http://cryptome.org)  
         
-* |FIXME_ICON| `Datacards <https://www.datacards.org/login/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Datacards.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Datacards](https://www.datacards.org/login/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//SocialSciences/Datacards.yml)  ]
         
-* |OK_ICON| `European Social Survey <http://www.europeansocialsurvey.org/data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [European Social Survey](http://www.europeansocialsurvey.org/data/)  
         
-* |OK_ICON| `FBI Hate Crime 2013 - aggregated data <https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [FBI Hate Crime 2013 - aggregated data](https://github.com/emorisse/FBI-Hate-Crime-Statistics/tree/master/2013)  
         
-* |OK_ICON| `Fragile States Index <http://fundforpeace.org/fsi/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Fragile States Index](http://fundforpeace.org/fsi/)  
         
-* |OK_ICON| `GDELT Global Events Database <http://gdeltproject.org/data.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [GDELT Global Events Database](http://gdeltproject.org/data.html)  
         
-* |OK_ICON| `General Social Survey (GSS) since 1972 <http://gss.norc.org>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [General Social Survey (GSS) since 1972](http://gss.norc.org)  
         
-* |OK_ICON| `German Social Survey <http://www.gesis.org/en/home/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [German Social Survey](http://www.gesis.org/en/home/)  
         
-* |OK_ICON| `Global Religious Futures Project <http://www.globalreligiousfutures.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Global Religious Futures Project](http://www.globalreligiousfutures.org/)  
         
-* |OK_ICON| `Gun Violence Data - A comprehensive, accessible database that contains [...] <https://github.com/jamesqo/gun-violence-data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Gun Violence Data - A comprehensive, accessible database that contains [...]](https://github.com/jamesqo/gun-violence-data)  
         
-* |OK_ICON| `Humanitarian Data Exchange <https://data.humdata.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Humanitarian Data Exchange](https://data.humdata.org/)  
         
-* |OK_ICON| `INFORM Index for Risk Management <http://www.inform-index.org/Results/Global>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [INFORM Index for Risk Management](http://www.inform-index.org/Results/Global)  
         
-* |OK_ICON| `Institute for Demographic Studies <http://www.ined.fr/en/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Institute for Demographic Studies](http://www.ined.fr/en/)  
         
-* |OK_ICON| `International Networks Archive <http://www.princeton.edu/~ina/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [International Networks Archive](http://www.princeton.edu/~ina/)  
         
-* |OK_ICON| `International Social Survey Program ISSP <http://www.issp.org>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [International Social Survey Program ISSP](http://www.issp.org)  
         
-* |OK_ICON| `International Studies Compendium Project <http://www.isacompendium.com/public/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [International Studies Compendium Project](http://www.isacompendium.com/public/)  
         
-* |OK_ICON| `James McGuire Cross National Data <http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [James McGuire Cross National Data](http://jmcguire.faculty.wesleyan.edu/welcome/cross-national-data/)  
         
-* |OK_ICON| `MIT Reality Mining Dataset <http://realitycommons.media.mit.edu/realitymining.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [MIT Reality Mining Dataset](http://realitycommons.media.mit.edu/realitymining.html)  
         
-* |OK_ICON| `MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste <http://nsd.uib.no>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [MacroData Guide by Norsk samfunnsvitenskapelig datatjeneste](http://nsd.uib.no)  
         
-* |OK_ICON| `Minnesota Population Center <https://www.ipums.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Minnesota Population Center](https://www.ipums.org/)  
         
-* |OK_ICON| `Notre Dame Global Adaptation Index (ND-GAIN) <https://gain.nd.edu/our-work/country-index/download-data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Notre Dame Global Adaptation Index (ND-GAIN)](https://gain.nd.edu/our-work/country-index/download-data/)  
         
-* |OK_ICON| `Open Crime and Policing Data in England, Wales and Northern Ireland <https://data.police.uk/data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Open Crime and Policing Data in England, Wales and Northern Ireland](https://data.police.uk/data/)  
         
-* |OK_ICON| `OpenSanctions - A global database of persons and companies of political, [...] <http://www.opensanctions.org/#downloads>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenSanctions - A global database of persons and companies of political, [...]](http://www.opensanctions.org/#downloads)  
         
-* |OK_ICON| `Paul Hensel General International Data Page <http://www.paulhensel.org/dataintl.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Paul Hensel General International Data Page](http://www.paulhensel.org/dataintl.html)  
         
-* |OK_ICON| `PewResearch Internet Survey Project <http://www.pewinternet.org/?post_type=dataset>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [PewResearch Internet Survey Project](http://www.pewinternet.org/?post_type=dataset)  
         
-* |OK_ICON| `PewResearch Society Data Collection <http://www.pewresearch.org/data/download-datasets/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [PewResearch Society Data Collection](http://www.pewresearch.org/data/download-datasets/)  
         
-* |OK_ICON| `Political Polarity Data <http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Political Polarity Data](http://www3.cs.stonybrook.edu/~leman/data/14-icwsm-political-polarity-data.zip)  
         
-* |OK_ICON| `StackExchange Data Explorer <http://data.stackexchange.com/help>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [StackExchange Data Explorer](http://data.stackexchange.com/help)  
         
-* |OK_ICON| `Terrorism Research and Analysis Consortium <http://www.trackingterrorism.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Terrorism Research and Analysis Consortium](http://www.trackingterrorism.org/)  
         
-* |OK_ICON| `Texas Inmates Executed Since 1984 <http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Texas Inmates Executed Since 1984](http://www.tdcj.state.tx.us/death_row/dr_executed_offenders.html)  
         
-* |OK_ICON| `Titanic Survival Data Set <https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Titanic Survival Data Set](https://github.com/awesomedata/awesome-public-datasets/tree/master/Datasets)  
         
-* |OK_ICON| `UCB's Archive of Social Science Data (D-Lab) <http://ucdata.berkeley.edu/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UCB's Archive of Social Science Data (D-Lab)](http://ucdata.berkeley.edu/)  
         
-* |OK_ICON| `UCLA Social Sciences Data Archive <https://dataverse.harvard.edu/dataverse/ssda_ucla>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UCLA Social Sciences Data Archive](https://dataverse.harvard.edu/dataverse/ssda_ucla)  
         
-* |OK_ICON| `UN Civil Society Database <http://esango.un.org/civilsociety/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UN Civil Society Database](http://esango.un.org/civilsociety/)  
         
-* |OK_ICON| `UPJOHN for Labor Employment Research <http://www.upjohn.org/services/resources/employment-research-data-center>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UPJOHN for Labor Employment Research](http://www.upjohn.org/services/resources/employment-research-data-center)  
         
-* |OK_ICON| `Universities Worldwide <http://univ.cc/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Universities Worldwide](http://univ.cc/)  
         
-* |OK_ICON| `Uppsala Conflict Data Program <http://ucdp.uu.se/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Uppsala Conflict Data Program](http://ucdp.uu.se/)  
         
-* |OK_ICON| `World Bank Open Data <http://data.worldbank.org/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [World Bank Open Data](http://data.worldbank.org/)  
         
-* |OK_ICON| `WorldPop project - Worldwide human population distributions <http://www.worldpop.org.uk/data/get_data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [WorldPop project - Worldwide human population distributions](http://www.worldpop.org.uk/data/get_data/)  
 
 TimeSeries
 ----------
         
-* |OK_ICON| `Databanks International Cross National Time Series Data Archive <http://www.cntsdata.com>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Databanks International Cross National Time Series Data Archive](http://www.cntsdata.com)  
         
-* |OK_ICON| `Hard Drive Failure Rates <https://www.backblaze.com/hard-drive-test-data.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Hard Drive Failure Rates](https://www.backblaze.com/hard-drive-test-data.html)  
         
-* |OK_ICON| `Heart Rate Time Series from MIT <http://ecg.mit.edu/time-series/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Heart Rate Time Series from MIT](http://ecg.mit.edu/time-series/)  
         
-* |OK_ICON| `Time Series Data Library (TSDL) from MU <https://datamarket.com/data/list/?q=provider:tsdl>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Time Series Data Library (TSDL) from MU](https://datamarket.com/data/list/?q=provider:tsdl)  
         
-* |OK_ICON| `UC Riverside Time Series Dataset <http://www.cs.ucr.edu/~eamonn/time_series_data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [UC Riverside Time Series Dataset](http://www.cs.ucr.edu/~eamonn/time_series_data/)  
     
 Transportation
 --------------
         
-* |OK_ICON| `Airlines OD Data 1987-2008 <http://stat-computing.org/dataexpo/2009/the-data.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Airlines OD Data 1987-2008](http://stat-computing.org/dataexpo/2009/the-data.html)  
         
-* |OK_ICON| `Ford GoBike Data (formerly Bay Area Bike Share Data) <https://www.fordgobike.com/system-data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Ford GoBike Data (formerly Bay Area Bike Share Data)](https://www.fordgobike.com/system-data)  
         
-* |OK_ICON| `Bike Share Systems (BSS) collection <https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Bike Share Systems (BSS) collection](https://github.com/BetaNYC/Bike-Share-Data-Best-Practices/wiki/Bike-Share-Data-Systems)  
         
-* |OK_ICON| `GeoLife GPS Trajectory from Microsoft Research <http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [GeoLife GPS Trajectory from Microsoft Research](http://research.microsoft.com/en-us/downloads/b16d359d-d164-469e-9fd4-daa38f2b2e13/)  
         
-* |OK_ICON| `German train system by Deutsche Bahn <http://data.deutschebahn.com/datasets/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [German train system by Deutsche Bahn](http://data.deutschebahn.com/datasets/)  
         
-* |OK_ICON| `Hubway Million Rides in MA <http://hubwaydatachallenge.org/trip-history-data/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Hubway Million Rides in MA](http://hubwaydatachallenge.org/trip-history-data/)  
         
-* |OK_ICON| `Montreal BIXI Bike Share <https://montreal.bixi.com/en/open-data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Montreal BIXI Bike Share](https://montreal.bixi.com/en/open-data)  
         
-* |OK_ICON| `NYC Taxi Trip Data 2009- <http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NYC Taxi Trip Data 2009-](http://www.nyc.gov/html/tlc/html/about/trip_record_data.shtml)  
         
-* |OK_ICON| `NYC Taxi Trip Data 2013 (FOIA/FOILed) <https://archive.org/details/nycTaxiTripData2013>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NYC Taxi Trip Data 2013 (FOIA/FOILed)](https://archive.org/details/nycTaxiTripData2013)  
         
-* |OK_ICON| `NYC Uber trip data April 2014 to September 2014 <https://github.com/fivethirtyeight/uber-tlc-foil-response>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [NYC Uber trip data April 2014 to September 2014](https://github.com/fivethirtyeight/uber-tlc-foil-response)  
         
-* |OK_ICON| `Open Traffic collection <https://github.com/graphhopper/open-traffic-collection>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Open Traffic collection](https://github.com/graphhopper/open-traffic-collection)  
         
-* |OK_ICON| `OpenFlights - airport, airline and route data <http://openflights.org/data.html>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [OpenFlights - airport, airline and route data](http://openflights.org/data.html)  
         
-* |FIXME_ICON| `Philadelphia Bike Share Stations (JSON) <https://www.rideindego.com/stations/json/>`_ [`fixme <https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml>`_]
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [Philadelphia Bike Share Stations (JSON)](https://www.rideindego.com/stations/json/)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//Transportation/Philadelphia-Bike-Share-Stations-JSON.yml)  ]
         
-* |OK_ICON| `Plane Crash Database, since 1920 <http://www.planecrashinfo.com/database.htm>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Plane Crash Database, since 1920](http://www.planecrashinfo.com/database.htm)  
         
-* |OK_ICON| `RITA Airline On-Time Performance data <http://www.transtats.bts.gov/Tables.asp?DB_ID=120>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [RITA Airline On-Time Performance data](http://www.transtats.bts.gov/Tables.asp?DB_ID=120)  
         
-* |OK_ICON| `RITA/BTS transport data collection (TranStat) <http://www.transtats.bts.gov/DataIndex.asp>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [RITA/BTS transport data collection (TranStat)](http://www.transtats.bts.gov/DataIndex.asp)  
         
-* |OK_ICON| `Renfe (Spanish National Railway Network) dataset <data.renfe.com>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Renfe (Spanish National Railway Network) dataset](data.renfe.com)  
         
-* |OK_ICON| `Toronto Bike Share Stations (JSON and GBFS files) <https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#84045f23-7465-0892-8889-7b6f91049b29>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Toronto Bike Share Stations (JSON and GBFS files)](https://www.toronto.ca/city-government/data-research-maps/open-data/open-data-catalogue/#84045f23-7465-0892-8889-7b6f91049b29)  
         
-* |OK_ICON| `Transport for London (TFL) <https://tfl.gov.uk/info-for/open-data-users/our-open-data>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Transport for London (TFL)](https://tfl.gov.uk/info-for/open-data-users/our-open-data)  
         
-* |OK_ICON| `Travel Tracker Survey (TTS) for Chicago <http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Travel Tracker Survey (TTS) for Chicago](http://www.cmap.illinois.gov/data/transportation/travel-tracker-survey)  
         
-* |OK_ICON| `U.S. Bureau of Transportation Statistics (BTS) <http://www.rita.dot.gov/bts/>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Bureau of Transportation Statistics (BTS)](http://www.rita.dot.gov/bts/)  
         
-* |OK_ICON| `U.S. Domestic Flights 1990 to 2009 <http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Domestic Flights 1990 to 2009](http://academictorrents.com/details/a2ccf94bbb4af222bf8e69dad60a68a29f310d9a)  
         
-* |OK_ICON| `U.S. Freight Analysis Framework since 2007 <http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm>`_
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [U.S. Freight Analysis Framework since 2007](http://ops.fhwa.dot.gov/freight/freight_analysis/faf/index.htm)  
 
