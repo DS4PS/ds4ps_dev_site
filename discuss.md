@@ -26,10 +26,10 @@ a {
 
 We invite conversation around data sources, methods, and substantive research themes. For questions about code, please see the rules listed below.
 
-<div class="button">
-<button type="button" onclick="https://github.com/DS4PS/ds4ps_dev_site/labels/methods">Methods</button>
-<button type="button" onclick="https://github.com/DS4PS/ds4ps_dev_site/labels/methods">Data</button>
-<button type="button" onclick="https://github.com/DS4PS/ds4ps_dev_site/labels/methods">Teaching</button>    
+<div class="button-group">
+<a class="button" href="https://github.com/DS4PS/ds4ps_dev_site/labels/methods">Methods</a>
+<a class="button" href="https://github.com/DS4PS/ds4ps_dev_site/labels/data">Data</a>
+<a class="button" href="https://github.com/DS4PS/ds4ps_dev_site/labels/instruction">Instruction</a>
 </div>
 
 <br>
