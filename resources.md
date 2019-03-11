@@ -383,9 +383,9 @@ Do yourself and all of your future collaborators a favor and try to develop a co
 
 Think of these suggestions as good habits that will make your life easier and will improve your ability to collaborate with others. And remember, your most important collaborator is yourself two months from now! 
 
-
+<br>
 <p style="text-align:center;">
-<iframe width="560" height="315" src="https://www.youtube.com/embed/W-Cz-LK16g4" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="700"  src="https://www.youtube.com/embed/W-Cz-LK16g4" frameborder="0" allowfullscreen></iframe>
 </p>
 
 <br>
