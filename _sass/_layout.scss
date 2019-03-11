@@ -106,6 +106,8 @@
         font-size: 12px;
         font-family: Open Sans;
         color: #FFF;
+	text-transform: uppercase;
+        font-weight: bold;
                
         @media screen and (min-width: 800px) {
             
@@ -138,10 +140,7 @@
   clear: both;
 }
 
-footer a {
-    text-transform: uppercase;
-    font-weight: bold;
-}
+
 
 
 /* Individual Posts
