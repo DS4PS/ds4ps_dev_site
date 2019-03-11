@@ -98,7 +98,7 @@
         text-align: center;
     }
 
-.footer ul li {
+.footer {
         min-height: 300px;
         background-color: #696969;
         padding-bottom: 3em;
@@ -133,10 +133,16 @@
 	          float: left;
             }      
         } 
-        
-    }
 
-
+.footer ul li {
+	font-family:system-ui,-apple-system,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;
+        font-size:calc(0.85em + 0.25vw) !important;
+        font-weight:300;
+        line-height:1.7 !important;
+        color: #FFF;
+	text-transform: uppercase;
+	text-align: left;
+}
 
 /* Clear floats after the columns */
 .row:after {
