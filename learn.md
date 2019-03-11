@@ -104,6 +104,10 @@ You will find here some resources for students and faculty that are applying dat
 
 Open source tools and data programming languages have evolved rapidly and are quickly becoming industry standard for data scientists. 
 
+The R community has taken this to another scale. There are currently 13,000 free and open-source packages available in R. It is better to think about R as an operating system, and the contributed packages as the programs you use for specific tasks.
+
+In addition to packages created for R, there are also powerful tools that make it easier to share data, collaborate on work, and share your results in creative ways. One of the reasons R has become an industry favorite is that it is highly integrated into this ecosystem. Many of these tools are built-right into R Studio, making it easier to manage large projects or collaborate.
+
 <br>
 <p style="text-align:center;">
 <iframe src="https://player.vimeo.com/video/180644880" width="640" height="360" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
