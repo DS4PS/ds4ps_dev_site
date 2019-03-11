@@ -201,6 +201,7 @@ Using RFIDs to Regulate Marijuana Distribution in Colorado [ [link](http://www.g
 Crowd-Sources Solutions [ [about DrivenData](https://www.drivendata.org/about/) ] [ [current competitions](https://www.drivendata.org/competitions/) ]  
 State and National Presidential Poll Aggregation [ [link](http://www.slate.com/features/pkremp_forecast/report.html) ]
 
+
 ### Open Innovation
 
 * The Data-Driven Justice Initiative [ [link](https://nonprofitquarterly.org/2016/07/06/data-driven-white-house-initiative-share-replicable-criminal-justice-reforms/?utm_source=Daily+Newswire&utm_campaign=338e62de4e-Daily_Digest_23437_6_2016&utm_medium=email&utm_term=0_94063a1d17-338e62de4e-12258093) ]  
@@ -210,8 +211,68 @@ State and National Presidential Poll Aggregation [ [link](http://www.slate.com/f
 
 
 
+<br><br>
+
+------------------------------
+
+## Collaboration Tools
+
+
+### GitHub
+
+Working in groups [is hard](https://www.ted.com/talks/clay_shirky_on_institutions_versus_collaboration). Most work is done in groups. As a result, project management is a non-trivial task that should not be approached in an ad-hoc fashion. The field of data science has inherited many great collaboration tools that were developed to manage large teams of software engineers, but are being used for many other creative purposes:
+
 <br>
+<div style="max-width:854px"><div style="position:relative;height:0;padding-bottom:56.25%"><iframe src="https://embed.ted.com/talks/clay_shirky_how_the_internet_will_one_day_transform_government" width="854" height="480" style="position:absolute;center:0;top:0;width:100%;height:100%" frameborder="0" scrolling="no" allowfullscreen></iframe></div></div>
 <br>
+
+
+### Data-Driven Documents
+
+For the purpose of transparency and reproducibility, as well as simple convenience, there is high demand for documents that combine typical elements of publications and reports such as text, tables, graphs and images, and the code that was used to create the analysis presented in the text. These efforts have largely converged on Markdown as a simple publishing language, and derivations like R Markdown to incorporate output from models into documents. 
+
+Markdown is a simple set of rules used to format text and images. Formatting it accomplished by adding tags to text. 
+
+```
+# H1
+## H2
+### H3
+```
+<img src="https://raw.githubusercontent.com/hasi96/course_website/master/assets/img/markdown-example.png" 
+alt="markdown" width="200" />
+
+The basics are very easy to master by referencing a basic [Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet).
+
+But don't let the simplicity fool you. Markdown documents are extremely versatile and powerful. Using the same text and code in a document, minor changes can be made to select a variety of document outputs that best meet the needs of the client or team. For example, check out the diversity of formats available in the [R Markdown Gallery](https://rmarkdown.rstudio.com/gallery.html).
+
+R Studio makes it easy to create R Markdown documents, and you can select the format by changing the output type. Perhaps you have a regular report created as an HTML page:   
+
+```
+--- 
+output: html_document
+---
+```
+And you want to re-organize the material into a dashboard. Simply change the output type:
+
+```
+--- 
+output: flexdashboard
+---
+```
+
+Then add a few page dividers, and your analysis will now be organized something like this [StoryBoard](https://beta.rstudioconnect.com/jjallaire/htmlwidgets-showcase-storyboard/htmlwidgets-showcase-storyboard.html).
+
+Markdown is used on GitHub, Stack Overflow, and in R Markdown documents. Familiarity with the basics offers a lot of power in controlling how your analysis is presented to your audience. 
+
+You can see some advanced R Markdown features [HERE](https://ds4ps.github.io/Data-Science-Class/HANDOUTS/R_Markdown_Template.html).
+
+Download an R Markdown Template for labs [HERE](https://cdn.rawgit.com/DS4PS/Data-Science-Class/d7a11a0e/TEMPLATES/MarkdownTemplate.RMD).
+
+Check out some [NICE THEMES](http://www.datadreaming.org/post/r-markdown-theme-gallery/) for R Markdown documents.
+
+
+
+<br><br>
 
 -----------------------
 
@@ -219,12 +280,6 @@ State and National Presidential Poll Aggregation [ [link](http://www.slate.com/f
 
 
 ## Methods
-
-
-### Text Analysis
-
-* Quanteda [ [link](https://docs.quanteda.io/articles/pkgdown/comparison.html) ]  
-* Who Wrote the Anonymous Op-Ed? [ [link](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html) ] [ [link](https://www.rjionline.org/stories/we-put-data-science-to-the-test-to-try-to-uncover-the-mystery-author-of-the) ]
 
 
 
@@ -268,9 +323,6 @@ Foreign Aid as Missile Attacks [ [link](http://d3.artzub.com/wbca/) ]
 
 
 
-
-
-
 ### Dashboard Design
 
 R Shiny Showcase [[ link](https://www.rstudio.com/products/shiny/shiny-user-showcase/) ]  
@@ -295,7 +347,50 @@ Demographics in Catalonia, Spain [ [link](https://gedemced.shinyapps.io/DP_CATAL
 Tableau Gallery [[ link](http://www.tableau.com/stories/gallery) ]
 
 
+### Text Analysis
+
+* Quanteda [ [link](https://docs.quanteda.io/articles/pkgdown/comparison.html) ]  
+* Who Wrote the Anonymous Op-Ed? [ [link](http://blog.revolutionanalytics.com/2018/09/anonymous-nyt-op-ed.html) ] [ [link](https://www.rjionline.org/stories/we-put-data-science-to-the-test-to-try-to-uncover-the-mystery-author-of-the) ]
 
 
+
+<br><br>
+
+----------------------
+
+
+
+
+
+## Style Guides
+
+Style guides are the hand-writing of the coding world. Some people have really nice code style, some people have really sloppy code that is hard to read. Consider the readibility of this:
+
+```r
+y<-cut(rank(x),breaks=seq(from=1,to=100,by=10),labels=paste("X",1:10,sep=""))
+```
+Versus:
+
+```r
+y <- cut( rank( x ), breaks=seq( from=1, to=100, by=10 ), labels=paste( "X", 1:10, sep="" ) )
+```
+
+Do yourself and all of your future collaborators a favor and try to develop a consistent coding style. There are two popular style guides for R:
+
+* [The Google R Style Guide](https://google.github.io/styleguide/Rguide.xml)
+* [The Tidyverse Style Guide](http://style.tidyverse.org/index.html)
+
+Think of these suggestions as good habits that will make your life easier and will improve your ability to collaborate with others. And remember, your most important collaborator is yourself two months from now! 
+
+<iframe width="750" height="440" src="https://www.youtube-nocookie.com/embed/W-Cz-LK16g4?rel=0&amp;controls=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+
+
+
+
+
+<br><br>
+
+----------------------
 
 
