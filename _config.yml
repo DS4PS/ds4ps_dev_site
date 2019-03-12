@@ -8,13 +8,15 @@ twitter_username: username
 github_username: lecy
 
 header:
-  - title: Projects
-    url : https://github.com/DS4PS
-
+  - title: Careers
+    url : /careers
   - title: Resources
-    url : /resources
-
-
+    url : /resources   
+  - title: Data
+    url : /data
+  - title: Community
+    url : /discuss 
+    
 # Build settings
 # markdown: redcarpet
 # markdown_ext:  markdown,mkdown,mkdn,mkd,md

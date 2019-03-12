@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Careers
-permalink: /edu/
+permalink: /careers/
 ---
 
 
@@ -17,6 +17,9 @@ p, li {
      margin-left:1%;
      margin-right:0%;
     }  
+
+footer li { font-size:calc(0.65em + 0.25vw); }
+    
 h2{
   font-size:calc(2em + 0.25vw) !important;
   color: #337ab7;

@@ -33,25 +33,19 @@ ul {
   list-style-type:none;
   margin: 0;
   padding: 0;
-  font-size:calc(0.85em + 0.25vw);
-  line-height:1.5;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
 }
 
-.ul .a {
-  font-weight: bold;
-  color: gray;
-}  
-
-.ul.a {
-  font-weight: bold;
-  color: gray;
-} 
-
 ul a {
-  font-weight: bold;
   color: gray;
+  font-size:calc(0.65em + 0.25vw);
+  line-height:1.2;
 } 
-
+ul a:hover {
+  color: #337ab7;
+  font-weight: bold;
+} 
 #markdown-toc a {
   color: black;
   font-size:calc(0.75em + 0.25vw);
