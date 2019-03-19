@@ -17,10 +17,30 @@ ul {
   background-color: black;
   color: white;
 }
-  .span{
-width:32px;
-  }
-  .post-css{
+
+}
+.button-tags {
+  background-color: white;
+  color: orange;
+  border: 1px solid orange;
+  border-radius: 5px;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 12px;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
+}
+.button-tags:hover {
+  background-color: #337ab7; /* blue */
+  border: 1px solid #337ab7;
+  color: white;
+}
+
+.span{ width:32px; }
+
+.post-css{
     font-family: "Open Sans";
     font-weight: 300;
     font-size: 1.5em;
@@ -28,6 +48,7 @@ width:32px;
     color: rgb(69, 69, 69);
     display: block;
   }
+
   .date_day{
     font-family: 'Open Sans',sans-serif;
     font-weight: 600;
