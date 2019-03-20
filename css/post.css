@@ -81,11 +81,11 @@ a:hover highligher-rouge {
     display: block;
   }
 
-  .date_day{
+.date_day{
     font-family: 'Open Sans',sans-serif;
-    font-weight: 600;
+    font-weight: 700;
     font-style: normal;
     color: #337ab7;  // #0562dc;
     font-size: 3.5rem;
-    /* line-height: 1.6; */
+    line-height: 1.6;
   }
