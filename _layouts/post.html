@@ -6,35 +6,44 @@ layout: default
   <header class="post-header">
      <br>
      <br>
+     
      <h1 class="post-title">{{ page.title }}
      <a href="https://github.com/DS4PS/ds4ps_dev_site/edit/master/{{page.path}}" target="_blank" style="float:right;">
      <i class="fab fa-github fa-1x" style="color:lightgray;text-align:right;"></i>
      </h1> 
-       
-     </a>     <p class="post-meta">Posted on {{ page.date | date: "%b %-d, %Y" }}{% if page.author %} • {{ page.author }}{% endif %}{% if page.meta %} • {{ page.meta }}{% endif %}</p>
-     
-
+     </a>  
     
+     <p style="color:#337ab7;" class="post-meta">Posted on {{ page.date | date: "%b %-d, %Y" }}
+       {% if page.author %} • {{ page.author }}{% endif %}
+       {% if page.meta %} • {{ page.meta }}{% endif %}
+     </p>
+     
   </header>
-  <div>
+  
+<div>
 <span>
   {% for tag in page.tags %}
     {% capture tag_name %}{{ tag }}{% endcapture %}
-    <a href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}"><code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
-  {% endfor %}
+     <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
+        {{ tag_name }}
+     </a>
+    {% endfor %}
 </span>
-<div>
+</div>
+  
 <br>
 <br>
+
 <div>
   <article class="post-content">
     {{ content }}
   </article>
 </div>
-  <div align="center">
+  
+<div align="center">
   	<a href="#">
   	<i class="fa fa-arrow-circle-up fa-2x"></i>
   	</a>
-  </div>
+</div>
 
 </div>
