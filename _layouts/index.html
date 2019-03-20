@@ -17,7 +17,7 @@ layout: default
   
 
 <br>
-  <h2 style="text-align:center;">Data Science for the Public Sector</h2>
+  <h2 style="text-align:center;">Data Science for the <br>Public Sector</h2>
   <br>
   <hr>
   
@@ -59,7 +59,7 @@ layout: default
          <div style = "float:left;width:85%">
           
            <a class = "post-css" href="{{ post.url | prepend: site.baseurl }}">
-            <h3>{{ post.title }}</h3>
+            <h4>{{ post.title }}</h4>
            </a>
            
           <div class = "uk-card-body">
@@ -81,7 +81,8 @@ layout: default
             
            
              <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
-               <code class="highligher-rouge"><nobr>{{ tag_name }}</nobr></code>&nbsp;</a>
+               {{ tag_name }}
+             </a>
            
             {% endfor %}
           </span>
