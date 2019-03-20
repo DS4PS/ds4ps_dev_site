@@ -14,25 +14,28 @@ layout: default
      </h1> 
      </a>  
     
+     <br>
      <p style="color:#337ab7;" class="post-meta">Posted on  • {{ page.date | date: "%b %-d, %Y" }} 
        {% if page.author %} • {{ page.author }}{% endif %}
        {% if page.meta %} • {{ page.meta }} {% endif %}  •
      </p>
-     
+    
+    <div>
+    <span>
+        {% for tag in page.tags %}
+        {% capture tag_name %}{{ tag }}{% endcapture %}
+
+         <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
+           {{ tag_name }}
+         </a>
+
+        {% endfor %}
+    </span>
+    </div>
+    
   </header>
   
-<div>
-<span>
-    {% for tag in page.tags %}
-    {% capture tag_name %}{{ tag }}{% endcapture %}
 
-     <a class="button-tags" href="{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{ tag_name }}">
-       {{ tag_name }}
-     </a>
-
-    {% endfor %}
-</span>
-</div>
   
 <br>
 <br>
