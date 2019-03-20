@@ -5,7 +5,7 @@ tags: [data-viz,government,contest]
 ---
 
 
-[![](assets/img/world-data-viz-prize.png)](https://informationisbeautiful.net/2019/winners-of-the-world-data-visualization-prize/)
+[![](/assets/img/world-data-viz-prize.png)](https://informationisbeautiful.net/2019/winners-of-the-world-data-visualization-prize/)
 
 [![](../assets/img/world-data-viz-prize.png)](https://informationisbeautiful.net/2019/winners-of-the-world-data-visualization-prize/)
 
@@ -22,8 +22,8 @@ Scroll through the interactive, static and hand-drawn “napkin” category winn
 
 ## Static Category
 
-![](assets/img/static-runnerup.png)
+![](/assets/img/static-runnerup.png)
 
 ## Napkin Category
 
-![](assets/img/napkin-runner-up.png)
+![](/assets/img/napkin-runner-up.png)
