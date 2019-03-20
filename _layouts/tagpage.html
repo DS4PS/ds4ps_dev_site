@@ -3,13 +3,14 @@ layout: default
 ---
 <link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
 	
-	<div id = "post" class = "uk-container">
-	{% for tag in site.tags %}
+<div id = "post" class = "uk-container">
+  {% for tag in site.tags %}
   {% assign t = tag | first  %}
 
   {% assign posts = tag | last %}
-<ul style="display:none">
-<h1  >Topic: {{ t  }}</h1>
+
+   <h1  >Topic: {{ t  }}</h1>
+
 {% for post in posts %}
 
 {% if post.tags contains t  %}
@@ -84,10 +85,12 @@ layout: default
       </li>
       <br>
 
+    {% endif %}
     {% endfor %}
   </ul>
+    {% endfor %}
 
-	
+</div> 
 <br>
 <hr>
 <br>
