@@ -2,21 +2,7 @@
 ul {
   list-style-type: none;
 }
-.button {
-    margin-right: 5px;
-    font-size: 20px;
-    background: white;   // #4E9CAF;
-    padding: 15px 25px;
-    text-align: center;
-    border: 1px solid black;
-    border-radius: 5px;
-    color: black;  // white;
-    display:inline-block;
-  }
-.button:hover {
-  background-color: black;
-  color: white;
-}
+
 
 .button-simple {
   background-color: white;
@@ -27,7 +13,7 @@ ul {
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 12px;
+  font-size: 14px;
   -webkit-transition-duration: 0.4s; /* Safari */
   transition-duration: 0.4s;
 }
@@ -36,7 +22,7 @@ ul {
   color: white;
 }
 
-}
+
 .button-tags {
   background-color: white;
   color: orange;
@@ -60,7 +46,7 @@ ul {
 
 a h3 { 
     color: black;
-    line-height: 1;
+    /* line-height: 1; */
 }
 
 a highligher-rouge { 
