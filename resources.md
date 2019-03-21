@@ -85,6 +85,7 @@ Chattanooga Tableau Site [[link](https://performance.chattanooga.gov/dashboard/y
 ### Artificial Intelligence’s Impact on Government
 
 * AI to Transform Government [ [link](http://www.businessofgovernment.org/sites/default/files/Using%20Artificial%20Intelligence%20to%20Transform%20Government.pdf) ] 
+* AI for the American People [ [link](https://www.whitehouse.gov/ai/) ]  
 * Delivering Artificial Intelligence in Government: Challenges and Opportunities [ [IBM report](http://www.businessofgovernment.org/report/delivering-artificial-intelligence-government-challenges-and-opportunities) ]
 * Brookings Center Report on Automation [ [link](https://www.brookings.edu/wp-content/uploads/2019/01/ES_2019.01_BrookingsMetro_Automation-AI_Report_Muro-Maxim-Whiton-FINAL.pdf) ]  
 * Developing AI for Federal Government [ [link](https://www.nextgov.com/emerging-tech/2019/01/hhs-contract-will-offer-ai-tech-support-all-government/154078/) ]
