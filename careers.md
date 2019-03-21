@@ -138,7 +138,7 @@ There is a non-trivial learning curve to master some of the tools, but the good 
 -------------
 
 
-### Getting Started
+## Getting Started
 
 Resources for Learning R [ [link](http://www.r-bloggers.com/how-to-learn-r-2/) ]
 
@@ -198,7 +198,7 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 * Hertie School of Governance: [ [Data Analysis](https://github.com/mhaber/HertieDataScience) ]  [ [Collaboration](https://github.com/HertieDataScience/SyllabusAndLectures) ] [ [Text Analysis](https://github.com/mhaber/HertieTextAnalysis) ]  
 * University of Washington: [ [course](https://evansdatascience.github.io/GovernanceAnalytics/) ]  
 * Carleton University, Canada: [ [Big Data & Society](https://github.com/TraceyLauriault/COMS2200_Fall2017) ]  
-* Colby College: [ [Data Analysis](http://mgimond.github.io/ES218/) ] and [ [Statistics(http://mgimond.github.io/Stats-in-R/index.html) ]  
+* Colby College: [ [Data Analysis](http://mgimond.github.io/ES218/) ] and [ [Statistics](http://mgimond.github.io/Stats-in-R/index.html) ]  
 
  
 
