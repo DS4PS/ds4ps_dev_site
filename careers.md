@@ -236,10 +236,11 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 ## Data Science Communities
 
 R Open Science [ [link](https://ropensci.org/) ]  
+R Open Government [ [link](http://ropengov.github.io/) ]  
 R Ladies [ [link](https://rladies.org/) ]  
-Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ] 
-Nonprofit Open Data Collective [ [link](www.npdata.info) ]
-GitHub's Government Team [ [link](https://government.github.com/) ]
+Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]  
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]  
+GitHub's Government Team [ [link](https://government.github.com/) ]  
 
 ### Blogs and Listservs
 
