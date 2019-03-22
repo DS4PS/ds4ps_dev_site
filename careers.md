@@ -280,6 +280,8 @@ Data for Democracy [ [link](http://datafordemocracy.org/) ]
 ### Campaigns
 
 Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]
+Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]
+
 
 <br>
 <br>
