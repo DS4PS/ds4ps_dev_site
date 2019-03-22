@@ -82,6 +82,8 @@ Resources for those that want to leverage data science tools for work in governm
 Washington DC [ [site](http://opendata.dc.gov/) ] [ [shapefiles on github](https://github.com/benbalter/dc-maps) ] [ [data community dc](https://github.com/datacommunitydc) ]  
 Chattanooga Tableau Site [[link](https://performance.chattanooga.gov/dashboard/y4sb-89dw#stronger_neighborhoods) ]
 
+
+
 ### Artificial Intelligence’s Impact on Government
 
 * AI to Transform Government [ [link](http://www.businessofgovernment.org/sites/default/files/Using%20Artificial%20Intelligence%20to%20Transform%20Government.pdf) ] 
@@ -166,24 +168,24 @@ Data journalists are making their stories transparent by posting the data and co
 
 ### Useful Data APIs
 
-Awesome Public Datasets Page [ [GitHub](https://github.com/awesomedata/awesome-public-datasets) ]  
-Quandl API (many data sources) [ [link](https://www.quandl.com/) ] [ [r package](https://www.quandl.com/help/r) ]  
-Census Data API [ [acs package](http://eglenn.scripts.mit.edu/citystate/wp-content/uploads/2013/02/wpid-working_with_acs_R2.pdf) ] [ [census api](http://rstudio-pubs-static.s3.amazonaws.com/19337_2e7f827190514c569ea136db788ce850.html) ]  
-Fun Data for Teaching [ [link](http://bartomeuslab.com/2016/01/21/fun-data-for-teaching-r/) ]   
-Forbes: 35 Open Data Sources of Note [ [link](http://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#2a8d98876796) ]  
-100 Interesting Datasets [ [link](http://rs.io/100-interesting-data-sets-for-statistics/) ]  
-TwitteR Package API [ [link](http://davetang.org/muse/2013/04/06/using-the-r_twitter-package/) ]   
-19 Free Public Datasets (Springboard blog) [ [link](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) ]  
-ckanr [ [github](https://github.com/ropensci/ckanr) ] [ [vignette](https://cran.r-project.org/web/packages/ckanr/vignettes/ckanr_vignette.html) ]  
-Rsocrata [ [github](https://github.com/Chicago/RSocrata) ]  
-censusapi Package [ [github](https://github.com/hrecht/censusapi) ] [ [slides](http://urbaninstitute.github.io/R-Trainings/accesing-census-apis/presentation/index.html#/) ] [ [tutorial](/s/CensusAPI_Package.html) ]  
-@unitedstates [ [about](https://sunlightfoundation.com/2013/08/20/a-modern-approach-to-open-data/) ] [ [github](https://github.com/unitedstates) ]  
-Data USA [ [link](http://datausa.io/) ] [ [documentation](https://gist.github.com/lecy/0aa782a873cd174573f32d243233ca5b) ]  
-Data Science Toolkit [ [link](http://www.datasciencetoolkit.org/) ] [ [rpackage](http://files.meetup.com/1696476/DRUG.pdf) ]  
-Federal Government APIs [ [link](https://github.com/unitedstates/APIs) ]  
-Strava GPS Data of Athletes by City [ [blog](http://www.databrew.cc/posts/strava.html) ]
-
-
+* Awesome Public Datasets Page [ [GitHub](https://github.com/awesomedata/awesome-public-datasets) ]  
+* Quandl API (many data sources) [ [link](https://www.quandl.com/) ] [ [r package](https://www.quandl.com/help/r) ]  
+* Census Data API [ [acs package](http://eglenn.scripts.mit.edu/citystate/wp-content/uploads/2013/02/wpid-working_with_acs_R2.pdf) ] [ [census api](http://rstudio-pubs-static.s3.amazonaws.com/19337_2e7f827190514c569ea136db788ce850.html) ]  
+* Fun Data for Teaching [ [link](http://bartomeuslab.com/2016/01/21/fun-data-for-teaching-r/) ]   
+* Forbes: 35 Open Data Sources of Note [ [link](http://www.forbes.com/sites/bernardmarr/2016/02/12/big-data-35-brilliant-and-free-data-sources-for-2016/#2a8d98876796) ]  
+* 100 Interesting Datasets [ [link](http://rs.io/100-interesting-data-sets-for-statistics/) ]  
+* TwitteR Package API [ [link](http://davetang.org/muse/2013/04/06/using-the-r_twitter-package/) ]   
+* 19 Free Public Datasets (Springboard blog) [ [link](https://www.springboard.com/blog/free-public-data-sets-data-science-project/) ]  
+* ckanr [ [github](https://github.com/ropensci/ckanr) ] [ [vignette](https://cran.r-project.org/web/packages/ckanr/vignettes/ckanr_vignette.html) ]  
+* Rsocrata [ [github](https://github.com/Chicago/RSocrata) ]  
+* censusapi Package [ [github](https://github.com/hrecht/censusapi) ] [ [slides](http://urbaninstitute.github.io/R-Trainings/accesing-census-apis/presentation/index.html#/) ] [ [tutorial](/s/CensusAPI_Package.html) ]  
+* @unitedstates [ [about](https://sunlightfoundation.com/2013/08/20/a-modern-approach-to-open-data/) ] [ [github](https://github.com/unitedstates) ]  
+* Data USA [ [link](http://datausa.io/) ] [ [documentation](https://gist.github.com/lecy/0aa782a873cd174573f32d243233ca5b) ]  
+* Data Science Toolkit [ [link](http://www.datasciencetoolkit.org/) ] [ [rpackage](http://files.meetup.com/1696476/DRUG.pdf) ]  
+* Federal Government APIs [ [link](https://github.com/unitedstates/APIs) ]  
+* Strava GPS Data of Athletes by City [ [blog](http://www.databrew.cc/posts/strava.html) ]
+* rtimes Package: NYTimes API for government data [ [link](https://github.com/ropengov/rtimes) ]
+* rsunlight Package: Wrapper for the Open Congress and Open States APIs [ [link](https://github.com/ropengov/rsunlight) ]
 
 
 <br>
@@ -202,16 +204,16 @@ Strava GPS Data of Athletes by City [ [blog](http://www.databrew.cc/posts/strava
 
 ### Predictive Analytics Models
 
-Food Inspection Forecasting: case study on predictive analytics for food violations in Chicago[ [link](http://chicago.github.io/food-inspections-evaluation/) ]   
-Optimizing Infrastructure Repair [ [measurement](http://www.citylab.com/cityfixer/2016/01/totalpave-infrastructure-road-street-maintenance-smartphone/425079/) ] [ [model](http://danielphadley.com/Optimize-Street-Repairs/) ] [ [news](http://www.politico.com/magazine/story/2017/04/20/syracuse-infrastructure-water-system-pipe-breaks-215054) ]  
-Pretrial Criminal Risk Assessment for Judges [ [link](http://www.ncja.org/sites/default/files/documents/LJAF-Developing-a-National-Model.pdf) ]  
-Predicting Fire Hazards [ [link](http://www.routefifty.com/2015/09/predictive-analytics-home-smoke-detectors/122042/?oref=rf-topic-river) ] [ [model](http://www.nola.gov/performance-and-accountability/nolalytics/files/full-report-on-analytics-informed-smoke-alarm-outr/) ]  
-Why the Bronx Really Burned - Predictive Analytics Fail [ [link](http://fivethirtyeight.com/datalab/why-the-bronx-really-burned/?ex_cid=538fb) ]  
-Use Machine Learning to Predict Infrastructure Failure [ [link](https://www.datacamp.com/courses/drivendata-water-pumps-challenge) ]  
-Using Prediction to Prioritize Water Infrastructure Maintenance [ [link](https://dssg.uchicago.edu/project/early-warning-system-for-water-infrastructure-problems/) ]   
-Using RFIDs to Regulate Marijuana Distribution in Colorado [ [link](http://www.governing.com/blogs/bfc/gov-colorado-data-driven-marijuana-regulation.html) ]  
-Crowd-Sources Solutions [ [about DrivenData](https://www.drivendata.org/about/) ] [ [current competitions](https://www.drivendata.org/competitions/) ]  
-State and National Presidential Poll Aggregation [ [link](http://www.slate.com/features/pkremp_forecast/report.html) ]
+* Food Inspection Forecasting: case study on predictive analytics for food violations in Chicago[ [link](http://chicago.github.io/food-inspections-evaluation/) ]   
+* Optimizing Infrastructure Repair [ [measurement](http://www.citylab.com/cityfixer/2016/01/totalpave-infrastructure-road-street-maintenance-smartphone/425079/) ] [ [model](http://danielphadley.com/Optimize-Street-Repairs/) ] [ [news](http://www.politico.com/magazine/story/2017/04/20/syracuse-infrastructure-water-system-pipe-breaks-215054) ]  
+* Pretrial Criminal Risk Assessment for Judges [ [link](http://www.ncja.org/sites/default/files/documents/LJAF-Developing-a-National-Model.pdf) ]  
+* Predicting Fire Hazards [ [link](http://www.routefifty.com/2015/09/predictive-analytics-home-smoke-detectors/122042/?oref=rf-topic-river) ] [ [model](http://www.nola.gov/performance-and-accountability/nolalytics/files/full-report-on-analytics-informed-smoke-alarm-outr/) ]  
+* Why the Bronx Really Burned - Predictive Analytics Fail [ [link](http://fivethirtyeight.com/datalab/why-the-bronx-really-burned/?ex_cid=538fb) ]  
+* Use Machine Learning to Predict Infrastructure Failure [ [link](https://www.datacamp.com/courses/drivendata-water-pumps-challenge) ]  
+* Using Prediction to Prioritize Water Infrastructure Maintenance [ [link](https://dssg.uchicago.edu/project/early-warning-system-for-water-infrastructure-problems/) ]   
+* Using RFIDs to Regulate Marijuana Distribution in Colorado [ [link](http://www.governing.com/blogs/bfc/gov-colorado-data-driven-marijuana-regulation.html) ]  
+* Crowd-Sources Solutions [ [about DrivenData](https://www.drivendata.org/about/) ] [ [current competitions](https://www.drivendata.org/competitions/) ]  
+* State and National Presidential Poll Aggregation [ [link](http://www.slate.com/features/pkremp_forecast/report.html) ]
 
 
 ### Open Innovation
