@@ -272,6 +272,9 @@ ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/ch
 Data for Democracy [ [link](http://datafordemocracy.org/) ]  
 
 
+### Campaigns
+
+Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]
 
 <br>
 <br>
