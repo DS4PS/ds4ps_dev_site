@@ -216,6 +216,15 @@ Education
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Student Data from Free Code Camp](https://github.com/freeCodeCamp/open-data)  
 
+
+Foundations
+-----------
+
+* International Aid Transparency Initiative (iati) [ [ database of grants](https://iatistandard.org/en/) ]  
+* Ford Foundation Grants [ [database](https://www.fordfoundation.org/work/our-grants/grants-database/grants-all) ]
+* Hewlett Foundation Grants [ [database](https://hewlett.org/grants/?sort=date) ]
+
+
 GIS
 ---
         
