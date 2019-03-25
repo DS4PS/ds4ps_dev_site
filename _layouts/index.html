@@ -1,6 +1,11 @@
 ---
 layout: default
 ---
+<style>
+#uk-card-body img{
+display: none;
+}  
+</style>
 <link rel="stylesheet" href="{{ "/css/post.css" | prepend: site.baseurl }}">
 <div class="home">
  
@@ -68,7 +73,7 @@ layout: default
            </a>
            
           <div class = "uk-card-body">
-                {{ post.excerpt  }}
+                 {{ post.excerpt | strip_html | truncatewords:5000 }}
           </div>
           
           
