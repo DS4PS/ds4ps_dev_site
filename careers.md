@@ -77,9 +77,9 @@ ul {
 </style> 
 
 
-## Data Science Careers in Public Affairs
+## Data Science Careers in the Public & Nonprofit Sector
 
-You will find here some resources for students and faculty that are applying data science tools to public and nonprofit sector contexts. These include pedagogical resources for students doing graduate-level work in MPA and MPP programs, PhD seminars that share data programming resources, and data science methods within the field of public policy using R. 
+You will find here some resources for students and faculty that are applying data science tools to public and nonprofit sector contexts. These include pedagogical resources for students doing graduate-level work in MPA, MPP or nonprofit programs, PhD seminars that share data programming resources, and data science methods within the field of public policy using R. 
 
 
 <br>
@@ -187,6 +187,11 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 ## Professional Training
 
 
+### Networks
+
+Public Interest Technology University Network [ [link](https://www.newamerica.org/public-interest-technology/university-network/about-pitun/) ]
+
+
 ### Data Science Courses in Public Affairs Schools 
  
 * Arizona State: [ [Data Science for the Social Sector](https://ds4ps.github.io/course_website/) ] [ [Data-Driven Management for Public Organizations](http://www.lecy.info/data-driven-management) ]
@@ -236,10 +241,11 @@ Chen & Peace (2013), Applied Meta-Analysis with R
 ## Data Science Communities
 
 R Open Science [ [link](https://ropensci.org/) ]  
+R Open Government [ [link](http://ropengov.github.io/) ]  
 R Ladies [ [link](https://rladies.org/) ]  
-Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ] 
-Nonprofit Open Data Collective [ [link](www.npdata.info) ]
-GitHub's Government Team [ [link](https://government.github.com/) ]
+Conferences [ [link](https://jumpingrivers.github.io/meetingsR/events.html) ]  
+Nonprofit Open Data Collective [ [link](www.npdata.info) ]  
+GitHub's Government Team [ [link](https://government.github.com/) ]  
 
 ### Blogs and Listservs
 
@@ -270,6 +276,11 @@ I Quant NY [ [blog](http://iquantny.tumblr.com/) ]
 ChartsNThings: A Blog by the NYT Graphics Dept [ [link](http://kpq.github.io/chartsnthings/) ]  
 Data for Democracy [ [link](http://datafordemocracy.org/) ]  
 
+
+### Campaigns
+
+Ford Foundation: Public Interest Technology [ [link](https://www.fordfoundation.org/campaigns/public-interest-tech/) ]  
+Bloomberg Foundation: What Works Cities [ [link](https://whatworkscities.bloomberg.org/about/) ]  
 
 
 <br>
