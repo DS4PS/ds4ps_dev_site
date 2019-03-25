@@ -33,7 +33,7 @@ display: none;
   
 <div id = "tagset">
   {% for tag in site.tags %}
-  {% assign t = tag | first  %}
+  {% assign t = tag.replace(/\s/g,'') | first  %}
   <a class = "button" href = "{{ domain }}{{site.baseurl}}/tag/tagpage.html?id={{t}}">{{t}}</a>
 
 {% endfor %}

@@ -9,7 +9,7 @@ layout: default
 
   {% assign posts = tag | last %}
 <ul style="display:none">
-<h1  >Topic: {{ t  }}</h1>
+<h1>{{ t  }}</h1>
 {% for post in posts %}
 
 {% if post.tags contains t  %}
@@ -101,7 +101,9 @@ layout: default
 		var postuls = div.getElementsByTagName("ul");
 		for(var i =0;i<postuls.length;i++){
 			var head  = postuls[i].getElementsByTagName("h1")[0];
-			if(head.innerHTML == link){
+      console.log(head.innerHTML.replace(/\s/g,''));
+      console.log(link.replace(/\s/g,''));
+			if(head.innerHTML.replace(/\s/g,'') == link.replace(/\s/g,'')){
 				div.setAttribute("style","display:active");
 				postuls[i].setAttribute("style","display:active");
 			}
