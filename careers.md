@@ -102,10 +102,6 @@ You will find here some resources for students and faculty that are applying dat
 
 
 
-<br>
-<br>
-
------------------------
 
 
 ## Careers
