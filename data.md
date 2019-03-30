@@ -149,7 +149,7 @@ Climate+Weather
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [WorldClim - Global Climate Data](http://www.worldclim.org)  
 
 
-ComplexNetworks
+Complex Networks
 ---------------
               
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/fixme-24.png) [DBLP Citation dataset](https://kdl.cs.umass.edu/display/public/DBLP)   [[fixme](https://github.com/awesomedata/apd-core/tree/master/core//ComplexNetworks/DBLP-Citation-dataset.yml)  ]
@@ -160,7 +160,7 @@ ComplexNetworks
         
 
 
-DataChallenges
+Data Challenges
 --------------
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [DrivenData Competitions for Social Good](http://www.drivendata.org/)  
@@ -456,6 +456,8 @@ Government
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [San Jose, California, US](http://data.sanjoseca.gov/)  
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [San Mateo County, California, US](https://data.smcgov.org/)  
+
+* ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [São Paulo, SP, Brazil, 'Dados Abertos'](http://dados.prefeitura.sp.gov.br/)  
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Saskatchewan, Province of Canada](http://opendatask.ca/data/)  
         
@@ -644,7 +646,7 @@ SearchEngines
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Zenodo - An open dependable home for the long-tail of science](https://zenodo.org/collection/datasets)  
     
-SocialNetworks
+Social Networks
 --------------
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [72 hours #gamergate Twitter Scrape](http://waxy.org/random/misc/gamergate_tweets.csv)  
@@ -697,7 +699,7 @@ SocialNetworks
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Youtube Video Social Graph in 2007,2008](http://netsg.cs.sfu.ca/youtubedata/)  
     
-SocialSciences
+Social Sciences
 --------------
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [ACLED (Armed Conflict Location & Event Data Project)](http://www.acleddata.com/)  
@@ -786,7 +788,7 @@ SocialSciences
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [WorldPop project - Worldwide human population distributions](http://www.worldpop.org.uk/data/get_data/)  
 
-TimeSeries
+Time Series
 ----------
         
 * ![](https://raw.githubusercontent.com/awesomedata/apd-core/master/deploy/ok-24.png) [Databanks International Cross National Time Series Data Archive](http://www.cntsdata.com)  
