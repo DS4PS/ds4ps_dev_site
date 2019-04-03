@@ -22,7 +22,7 @@ a {
 
 
 
-## Discussion Topics
+## Conversation Themes
 
 We invite conversation around data sources, methods, and substantive research themes. For questions about code, please see the rules listed below.
 
